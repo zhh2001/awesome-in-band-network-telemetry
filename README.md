@@ -41,6 +41,10 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 - **SR-INT — Highly-Efficient and Adaptive Network Monitoring: When INT Meets Segment Routing** — *IEEE Transactions on Network and Service Management, 2021*. [Paper](https://doi.org/10.1109/TNSM.2021.3069000)
 
+### 2020
+
+- **FS-INT — Flexible sampling-based in-band network telemetry in programmable data plane** — *ICT Express, 2020*. [Paper](https://doi.org/10.1016/j.icte.2019.08.005)
+
 ## Inclusion Criteria
 
 A paper is included only when **In-Band Network Telemetry (INT) itself is a central research subject**, such as:
