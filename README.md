@@ -45,6 +45,10 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 - **FS-INT — Flexible sampling-based in-band network telemetry in programmable data plane** — *ICT Express, 2020*. [Paper](https://doi.org/10.1016/j.icte.2019.08.005)
 
+### 2019
+
+- **Sel-INT — A Runtime-Programmable Selective In-Band Network Telemetry System** — *IEEE Transactions on Network and Service Management, 2019*. [Paper](https://doi.org/10.1109/TNSM.2019.2953327)
+
 ## Inclusion Criteria
 
 A paper is included only when **In-Band Network Telemetry (INT) itself is a central research subject**, such as:
