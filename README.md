@@ -26,6 +26,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 ### 2023
 
 - **DLINT&PLINT — Deterministic and Probabilistic P4-Enabled Lightweight In-Band Network Telemetry** — *IEEE Transactions on Network and Service Management, 2023*. [Paper](https://doi.org/10.1109/TNSM.2023.3301839)
+- **SFANT — A SRv6-Based Flexible and Active Network Telemetry Scheme in Programming Data Plane** — *IEEE Transactions on Network Science and Engineering, 2023*. [Paper](https://doi.org/10.1109/TNSE.2023.3277000)
 - **OffsetINT — Achieving High Accuracy and Low Bandwidth for In-Band Network Telemetry** — *IEEE Transactions on Services Computing, 2023*. [Paper](https://doi.org/10.1109/TSC.2023.3323697)
 - **SONM-SR-INT — Selective and on-demand network measurement with SRv6 and INT** — *Computer Networks, 2023*. [Paper](https://doi.org/10.1016/j.comnet.2023.109914)
 - **uINT — Utility-based sampling rate allocation in in-band network telemetry for high network visibility** — *ICT Express, 2023*. [Paper](https://doi.org/10.1016/j.icte.2023.06.008)
