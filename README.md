@@ -39,7 +39,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 ### 2022
 
-- **FINT — Flexible In-band Network Telemetry method for data center network** — *Computer Networks, 2022*. [Paper](https://doi.org/10.1016/j.comnet.2022.109232)
+- **FINT — Flexible in-band network telemetry method for data center network** — *Computer Networks, 2022*. [Paper](https://doi.org/10.1016/j.comnet.2022.109232)
 - **IntOpt — In-band Network Telemetry optimization framework to monitor network slices using P4** — *Computer Networks, 2022*. [Paper](https://doi.org/10.1016/j.comnet.2022.109214)
 - **DyPro — Dynamic Probing Planning for In-Band Network Telemetry** — *IEEE ISCC, 2022*. [Paper](https://doi.org/10.1109/ISCC55528.2022.9912881)
 
@@ -57,7 +57,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 ### 2019
 
 - **Sel-INT — A Runtime-Programmable Selective In-Band Network Telemetry System** — *IEEE Transactions on Network and Service Management, 2019*. [Paper](https://doi.org/10.1109/TNSM.2019.2953327)
-- **INT-path — Towards Optimal Path Planning for In-band Network-Wide Telemetry** — *IEEE INFOCOM, 2019*. [Paper](https://doi.org/10.1109/INFOCOM.2019.8737529)
+- **INT-path — Towards optimal path planning for in-band network-wide telemetry** — *IEEE INFOCOM, 2019*. [Paper](https://doi.org/10.1109/INFOCOM.2019.8737529)
 
 ### 2018
 
