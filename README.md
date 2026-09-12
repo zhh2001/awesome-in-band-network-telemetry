@@ -42,6 +42,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 - **SR-INT — Highly-Efficient and Adaptive Network Monitoring: When INT Meets Segment Routing** — *IEEE Transactions on Network and Service Management, 2021*. [Paper](https://doi.org/10.1109/TNSM.2021.3069000)
 - **MPINT — Multipath In-band Network Telemetry** — *IEEE INFOCOM Workshops, 2021*. [Paper](https://doi.org/10.1109/INFOCOMWKSHPS51825.2021.9484494)
+- **VXLAN-based INT — In-band Network Telemetry for Overlay Network Monitoring** — *IEEE INFOCOM Workshops, 2021*. [Paper](https://doi.org/10.1109/INFOCOMWKSHPS51825.2021.9484508)
 
 ### 2020
 
