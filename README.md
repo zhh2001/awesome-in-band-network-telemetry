@@ -37,6 +37,10 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 - **FINT — Flexible In-band Network Telemetry method for data center network** — *Computer Networks, 2022*. [Paper](https://doi.org/10.1016/j.comnet.2022.109232)
 
+### 2021
+
+- **SR-INT — Highly-Efficient and Adaptive Network Monitoring: When INT Meets Segment Routing** — *IEEE Transactions on Network and Service Management, 2021*. [Paper](https://doi.org/10.1109/TNSM.2021.3069000)
+
 ## Inclusion Criteria
 
 A paper is included only when **In-Band Network Telemetry (INT) itself is a central research subject**, such as:
