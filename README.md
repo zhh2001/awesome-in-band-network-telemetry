@@ -10,6 +10,10 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **CASINT — Congestion-Aware Selective In-band Network Telemetry for Low Traffic Overhead and High-Accuracy Anomaly Detection** — *IEEE Transactions on Vehicular Technology, 2026*. [Paper](https://doi.org/10.1109/TVT.2026.3713202)
 - **INTpress — Compression-Based Quantized In-Band Network Telemetry for Low Bandwidth Overhead Monitoring** — *IEEE Transactions on Cloud Computing, 2026*. [Paper](https://doi.org/10.1109/TCC.2026.3690765)
 
+### 2025
+
+- **FANT — Flexible active in-band network telemetry** — *Computer Communications, 2025*. [Paper](https://doi.org/10.1016/j.comcom.2025.108336)
+
 ## Inclusion Criteria
 
 A paper is included only when **In-Band Network Telemetry (INT) itself is a central research subject**, such as:
