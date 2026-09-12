@@ -16,6 +16,10 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **Cache-INT — In-network caching-enabled In-band Network Telemetry** — *Computer Networks, 2025*. [Paper](https://doi.org/10.1016/j.comnet.2025.111404)
 - **FANT — Flexible active in-band network telemetry** — *Computer Communications, 2025*. [Paper](https://doi.org/10.1016/j.comcom.2025.108336)
 
+### 2024
+
+- **SecureINT — Toward Security-Enhanced In-Band Network Telemetry in Programmable Networks** — *IEEE Transactions on Network and Service Management, 2026*. [Paper](https://doi.org/10.1109/TNSM.2024.3504563)
+
 ## Inclusion Criteria
 
 A paper is included only when **In-Band Network Telemetry (INT) itself is a central research subject**, such as:
