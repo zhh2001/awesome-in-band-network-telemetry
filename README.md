@@ -33,6 +33,10 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **SONM-SR-INT — Selective and on-demand network measurement with SRv6 and INT** — *Computer Networks, 2023*. [Paper](https://doi.org/10.1016/j.comnet.2023.109914)
 - **uINT — Utility-based sampling rate allocation in in-band network telemetry for high network visibility** — *ICT Express, 2023*. [Paper](https://doi.org/10.1016/j.icte.2023.06.008)
 
+### 2022
+
+- **FINT — Flexible In-band Network Telemetry method for data center network** — *Computer Networks, 2022*. [Paper](https://doi.org/10.1016/j.comnet.2022.109232)
+
 ## Inclusion Criteria
 
 A paper is included only when **In-Band Network Telemetry (INT) itself is a central research subject**, such as:
