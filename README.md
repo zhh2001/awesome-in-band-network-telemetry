@@ -18,7 +18,8 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 ### 2024
 
-- **SecureINT — Toward Security-Enhanced In-Band Network Telemetry in Programmable Networks** — *IEEE Transactions on Network and Service Management, 2026*. [Paper](https://doi.org/10.1109/TNSM.2024.3504563)
+- **AdapINT — A Flexible and Adaptive In-Band Network Telemetry System Based on Deep Reinforcement Learning** — *IEEE Transactions on Network and Service Management, 2024*. [Paper](https://doi.org/10.1109/TNSM.2024.3427403)
+- **SecureINT — Toward Security-Enhanced In-Band Network Telemetry in Programmable Networks** — *IEEE Transactions on Network and Service Management, 2024*. [Paper](https://doi.org/10.1109/TNSM.2024.3504563)
 
 ## Inclusion Criteria
 
