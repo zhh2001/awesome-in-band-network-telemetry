@@ -22,6 +22,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **SecureINT — Toward Security-Enhanced In-Band Network Telemetry in Programmable Networks** — *IEEE Transactions on Network and Service Management, 2024*. [Paper](https://doi.org/10.1109/TNSM.2024.3504563)
 - **INT-Label — Lightweight In-Band Network-Wide Telemetry via Distributed Labeling** — *IEEE Transactions on Parallel and Distributed Systems, 2024*. [Paper](https://doi.org/10.1109/TPDS.2024.3367933)
 - **P4InfoSen-INT — Information-Sensitive In-Band Network Telemetry in P4-Based Programmable Data Plane** — *IEEE/ACM Transactions on Networking, 2024*. [Paper](https://doi.org/10.1109/TNET.2024.3448244)
+- **CLINT — Controller-Assisted Lightweight In-Band Network Telemetry** — *IEEE Access, 2024*. [Paper](https://doi.org/10.1109/ACCESS.2024.3385674)
 
 ### 2023
 
