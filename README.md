@@ -50,6 +50,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 ### 2019
 
 - **Sel-INT — A Runtime-Programmable Selective In-Band Network Telemetry System** — *IEEE Transactions on Network and Service Management, 2019*. [Paper](https://doi.org/10.1109/TNSM.2019.2953327)
+- **INT-path — Towards Optimal Path Planning for In-band Network-Wide Telemetry** — *IEEE INFOCOM, 2019*. [Paper](https://doi.org/10.1109/INFOCOM.2019.8737529)
 
 ### 2018
 
