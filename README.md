@@ -44,6 +44,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 ### 2020
 
+- **PINT — Probabilistic In-band Network Telemetry** — *SIGCOMM '20, 2020*. [Paper](https://doi.org/10.1145/3387514.3405894)
 - **FS-INT — Flexible sampling-based in-band network telemetry in programmable data plane** — *ICT Express, 2020*. [Paper](https://doi.org/10.1016/j.icte.2019.08.005)
 
 ### 2019
