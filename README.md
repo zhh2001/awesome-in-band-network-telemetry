@@ -23,6 +23,10 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **INT-Label — Lightweight In-Band Network-Wide Telemetry via Distributed Labeling** — *IEEE Transactions on Parallel and Distributed Systems, 2024*. [Paper](https://doi.org/10.1109/TPDS.2024.3367933)
 - **P4InfoSen-INT — Information-Sensitive In-Band Network Telemetry in P4-Based Programmable Data Plane** — *IEEE/ACM Transactions on Networking, 2024*. [Paper](https://doi.org/10.1109/TNET.2024.3448244)
 
+### 2023
+
+- **OffsetINT — Achieving High Accuracy and Low Bandwidth for In-Band Network Telemetry** — *IEEE Transactions on Services Computing, 2023*. [Paper](https://doi.org/10.1109/TSC.2023.3323697)
+
 ## Inclusion Criteria
 
 A paper is included only when **In-Band Network Telemetry (INT) itself is a central research subject**, such as:
