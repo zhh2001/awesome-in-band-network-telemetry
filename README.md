@@ -2,6 +2,12 @@
 
 A curated chronological list of research papers that explicitly study **In-Band Network Telemetry (INT)** mechanisms.
 
+## Papers
+
+### 2026
+
+- **TT-INT — A Time-Threshold-Based Lightweight In-Band Network Telemetry Scheme for P4-Enabled Programmable Networks** — *IEEE Transactions on Network and Service Management, 2026*. [Paper](https://doi.org/10.1109/TNSM.2026.3688086)
+
 ## Inclusion Criteria
 
 A paper is included only when **In-Band Network Telemetry (INT) itself is a central research subject**, such as:
