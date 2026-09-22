@@ -59,6 +59,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **Sel-INT — A Runtime-Programmable Selective In-Band Network Telemetry System** — *IEEE Transactions on Network and Service Management, 2019*. [Paper](https://doi.org/10.1109/TNSM.2019.2953327)
 - **ML-INT — Visualize your IP-over-optical network in realtime: A P4-based flexible multilayer in-band network telemetry system** — *IEEE Access, 2019*. [Paper](https://doi.org/10.1109/ACCESS.2019.2924332)
 - **INT-path — Towards optimal path planning for in-band network-wide telemetry** — *IEEE INFOCOM, 2019*. [Paper](https://doi.org/10.1109/INFOCOM.2019.8737529)
+- **INTOPP — Orchestrating in-band data plane telemetry With machine learning** — *IEEE Communications Letters, 2019*. [Paper](https://doi.org/10.1109/LCOMM.2019.2946562)
 - **An optimization-based approach for efficient network monitoring using in-band network telemetry** — *Journal of Internet Services and Applications, 2019*. [Paper](https://doi.org/10.1186/s13174-019-0112-0)
 
 ### 2018
