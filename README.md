@@ -47,6 +47,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 - **SR-INT — Highly-Efficient and Adaptive Network Monitoring: When INT Meets Segment Routing** — *IEEE Transactions on Network and Service Management, 2021*. [Paper](https://doi.org/10.1109/TNSM.2021.3069000)
 - **PFA-INT — Lightweight in-band network telemetry with per-flow aggregation** — *IEEE NFV-SDN, 2021*. [Paper](https://doi.org/10.1109/NFV-SDN53031.2021.9665016)
+- **C-INT** — An efficient cluster based in-band network telemetry — *HotICN, 2021*. [Paper](https://doi.org/10.1109/HotICN53262.2021.9680854)
 - **P<sup>2</sup>INT — Near-optimal probing planning for in-band network telemetry** — *IEEE Communications Letters, 2021*. [Paper](https://doi.org/10.1109/LCOMM.2021.3053485)
 - **GPINT — Efficient Network Monitoring via In-band Telemetry** — *DRCN, 2021*. [Paper](https://doi.org/10.1109/DRCN51631.2021.9477344)
 - **MPINT — Multipath In-band Network Telemetry** — *IEEE INFOCOM Workshops, 2021*. [Paper](https://doi.org/10.1109/INFOCOMWKSHPS51825.2021.9484494)
