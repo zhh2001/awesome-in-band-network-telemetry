@@ -21,12 +21,12 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 ### 2024
 
-- **AdapINT — A Flexible and Adaptive In-Band Network Telemetry System Based on Deep Reinforcement Learning** — *IEEE Transactions on Network and Service Management, 2024*. [Paper](https://doi.org/10.1109/TNSM.2024.3427403)
-- **SecureINT — Toward Security-Enhanced In-Band Network Telemetry in Programmable Networks** — *IEEE Transactions on Network and Service Management, 2024*. [Paper](https://doi.org/10.1109/TNSM.2024.3504563)
-- **INT-Label — Lightweight In-Band Network-Wide Telemetry via Distributed Labeling** — *IEEE Transactions on Parallel and Distributed Systems, 2024*. [Paper](https://doi.org/10.1109/TPDS.2024.3367933)
+- **AdapINT** — A flexible and adaptive in-band network telemetry system based on deep reinforcement learning — *IEEE Transactions on Network and Service Management, 2024*. [Paper](https://doi.org/10.1109/TNSM.2024.3427403)
+- **SecureINT** — Toward security-enhanced in-band network telemetry in programmable networks — *IEEE Transactions on Network and Service Management, 2024*. [Paper](https://doi.org/10.1109/TNSM.2024.3504563)
+- **INT-Label** — Lightweight in-band network-wide telemetry via distributed labeling — *IEEE Transactions on Parallel and Distributed Systems, 2024*. [Paper](https://doi.org/10.1109/TPDS.2024.3367933)
 - **INT-Segment** — MTU-adaptive in-band network-wide telemetry — *IEEE/ACM Transactions on Networking, 2024*. [Paper](https://doi.org/10.1109/TNET.2024.3351672)
-- **P4InfoSen-INT — Information-Sensitive In-Band Network Telemetry in P4-Based Programmable Data Plane** — *IEEE/ACM Transactions on Networking, 2024*. [Paper](https://doi.org/10.1109/TNET.2024.3448244)
-- **CLINT — Controller-Assisted Lightweight In-Band Network Telemetry** — *IEEE Access, 2024*. [Paper](https://doi.org/10.1109/ACCESS.2024.3385674)
+- **P4InfoSen-INT** — Information-sensitive in-band network telemetry in P4-based programmable data plane — *IEEE/ACM Transactions on Networking, 2024*. [Paper](https://doi.org/10.1109/TNET.2024.3448244)
+- **CLINT** — Controller-assisted lightweight in-band network telemetry — *IEEE Access, 2024*. [Paper](https://doi.org/10.1109/ACCESS.2024.3385674)
 - **OpenINT** — Dynamic in-band network telemetry with lightweight deployment and flexible planning — *IEEE INFOCOM, 2024*. [Paper](https://doi.org/10.1109/INFOCOM52122.2024.10621221)
 - **INTaaS** — Provisioning in-band network telemetry as a service via online learning — *Computer Networks, 2024*. [Paper](https://doi.org/10.1016/j.comnet.2024.110211)
 - **SPAN** — Reducing the in-band network telemetry overhead through the spatial sampling: Theory and experimental results — *Computer Networks, 2024*. [Paper](https://doi.org/10.1016/j.comnet.2024.110269)
