@@ -29,6 +29,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **CLINT — Controller-Assisted Lightweight In-Band Network Telemetry** — *IEEE Access, 2024*. [Paper](https://doi.org/10.1109/ACCESS.2024.3385674)
 - **OpenINT** — Dynamic in-band network telemetry with lightweight deployment and flexible planning — *IEEE INFOCOM, 2024*. [Paper](https://doi.org/10.1109/INFOCOM52122.2024.10621221)
 - **INTaaS** — Provisioning in-band network telemetry as a service via online learning — *Computer Networks, 2024*. [Paper](https://doi.org/10.1016/j.comnet.2024.110211)
+- **SPAN** — Reducing the In band Network Telemetry overhead through the spatial sampling: Theory and experimental results — *Computer Networks, 2024*. [Paper](https://doi.org/10.1016/j.comnet.2024.110269)
 - Frequency-Aware and Item-Wise In-band Network Telemetry for Per-flow Measurement — *IEEE INFOCOM Workshops, 2024*. [Paper](https://doi.org/10.1109/INFOCOMWKSHPS61880.2024.10620783)
 
 ### 2023
