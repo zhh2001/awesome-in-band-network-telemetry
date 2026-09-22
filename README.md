@@ -34,16 +34,16 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 ### 2023
 
-- **DLINT&PLINT — Deterministic and Probabilistic P4-Enabled Lightweight In-Band Network Telemetry** — *IEEE Transactions on Network and Service Management, 2023*. [Paper](https://doi.org/10.1109/TNSM.2023.3301839)
-- **SFANT — A SRv6-Based Flexible and Active Network Telemetry Scheme in Programming Data Plane** — *IEEE Transactions on Network Science and Engineering, 2023*. [Paper](https://doi.org/10.1109/TNSE.2023.3277000)
-- **SINT — Toward a Blockchain-Based Secure In-Band Network Telemetry Architecture** — *IEEE Transactions on Information Forensics and Security, 2023*. [Paper](https://doi.org/10.1109/TIFS.2023.3269891)
+- **DLINT&PLINT** — Deterministic and probabilistic P4-enabled lightweight in-band network telemetry — *IEEE Transactions on Network and Service Management, 2023*. [Paper](https://doi.org/10.1109/TNSM.2023.3301839)
+- **SFANT** — A SRv6-based flexible and active network telemetry scheme in programming data plane — *IEEE Transactions on Network Science and Engineering, 2023*. [Paper](https://doi.org/10.1109/TNSE.2023.3277000)
+- **SINT** — Toward a blockchain-based secure in-band network telemetry architecture — *IEEE Transactions on Information Forensics and Security, 2023*. [Paper](https://doi.org/10.1109/TIFS.2023.3269891)
 - **OffsetINT** — Achieving high accuracy and low bandwidth for in-band network telemetry — *IEEE Transactions on Services Computing, 2023*. [Paper](https://doi.org/10.1109/TSC.2023.3323697)
-- **DeltaINT — A general delta-based in-band network telemetry framework with extremely low bandwidth overhead** — *Computer Networks, 2023*. [Paper](https://doi.org/10.1016/j.comnet.2023.109573)
-- **SONM-SR-INT — Selective and on-demand network measurement with SRv6 and INT** — *Computer Networks, 2023*. [Paper](https://doi.org/10.1016/j.comnet.2023.109914)
-- **uINT — Utility-based sampling rate allocation in in-band network telemetry for high network visibility** — *ICT Express, 2023*. [Paper](https://doi.org/10.1016/j.icte.2023.06.008)
+- **DeltaINT** — A general delta-based in-band network telemetry framework with extremely low bandwidth overhead — *Computer Networks, 2023*. [Paper](https://doi.org/10.1016/j.comnet.2023.109573)
+- **SONM-SR-INT** — Selective and on-demand network measurement with SRv6 and INT — *Computer Networks, 2023*. [Paper](https://doi.org/10.1016/j.comnet.2023.109914)
+- **uINT** — Utility-based sampling rate allocation in in-band network telemetry for high network visibility — *ICT Express, 2023*. [Paper](https://doi.org/10.1016/j.icte.2023.06.008)
 - **INT-Balance** — In-band network-wide telemetry with balanced monitoring path planning — *IEEE ICC, 2023*. [Paper](https://doi.org/10.1109/ICC45041.2023.10279077)
 - **D-INT** — A dynamic algorithm for in-band network telemetry — *SBRC, 2023*. [Paper](https://doi.org/10.5753/sbrc.2023.531)
-- **MPolKA-INT** — Stateless Multipath Source Routing for In-Band Network Telemetry — *AINA, 2023*. [Paper](https://doi.org/10.1007/978-3-031-28451-9_45)
+- **MPolKA-INT** — Stateless multipath source routing for in-band network telemetry — *AINA, 2023*. [Paper](https://doi.org/10.1007/978-3-031-28451-9_45)
 - **SaR4IO** — In-band network telemetry overhead reduction based on data flows sampling and recovering — *IEEE NetSoft, 2023*. [Paper](https://doi.org/10.1109/NetSoft57336.2023.10175471)
 - How to use in-band network telemetry wisely: Network-wise orchestration of Sel-INT — *IEEE/ACM Transactions on Networking, 2023*. [Paper](https://doi.org/10.1109/TNET.2022.3194086)
 
