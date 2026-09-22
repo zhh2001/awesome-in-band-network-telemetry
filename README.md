@@ -56,6 +56,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **Fast-INT — Light-weight and efficient in-band network telemetry in programmable data plane** — *IEEE VTC, 2020*. [Paper](https://doi.org/10.1109/VTC2020-Fall49728.2020.9348823)
 - **INT-filter — Mitigating data collection overhead for high-resolution in-band network telemetry** — *IEEE GLOBECOM, 2020*. [Paper](https://doi.org/10.1109/GLOBECOM42002.2020.9348029)
 - **Patcher — Towards fault-tolerant probing planning for in-band network telemetry** — *IEEE LATINCOM, 2020*. [Paper](https://doi.org/10.1109/LATINCOM50620.2020.9282348)
+- **A heuristic approach for large-scale orchestration of the in-band data plane telemetry problem** — *AINA, 2020*. [Paper](https://doi.org/10.1007/978-3-030-44041-1_35)
 
 ### 2019
 
