@@ -17,7 +17,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **Cache-INT — In-network caching-enabled In-band Network Telemetry** — *Computer Networks, 2025*. [Paper](https://doi.org/10.1016/j.comnet.2025.111404)
 - **FANT — Flexible active in-band network telemetry** — *Computer Communications, 2025*. [Paper](https://doi.org/10.1016/j.comcom.2025.108336)
 - **INT-LLPP — Lightweight in-band network-wide telemetry with low-latency and low-overhead path planning** — *Computer Communications, 2025*. [Paper](https://doi.org/10.1016/j.comcom.2025.108142)
-- **INT-MC** — Low-overhead in-band network-wide telemetry based on matrix completion — *SIGMETRICS, 2025*. [Paper](https://doi.org/10.1145/3726854.3727291)
+- **INT-MC** — Low-overhead in-band network-wide telemetry based on matrix completion — *ACM SIGMETRICS, 2025*. [Paper](https://doi.org/10.1145/3726854.3727291)
 
 ### 2024
 
