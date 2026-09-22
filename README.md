@@ -53,6 +53,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **MPINT — Multipath In-band Network Telemetry** — *IEEE INFOCOM Workshops, 2021*. [Paper](https://doi.org/10.1109/INFOCOMWKSHPS51825.2021.9484494)
 - **VXLAN-based INT — In-band Network Telemetry for Overlay Network Monitoring** — *IEEE INFOCOM Workshops, 2021*. [Paper](https://doi.org/10.1109/INFOCOMWKSHPS51825.2021.9484508)
 - **LINT — Accuracy-adaptive and Lightweight In-band Network Telemetry** — *IFIP/IEEE IM, 2021*. [Paper](https://ieeexplore.ieee.org/document/9464012)
+- In-band network telemetry task orchestration based on multi-objective optimization — *APNOMS, 2021*. [Paper](https://doi.org/10.23919/APNOMS52696.2021.9562646)
 
 ### 2020
 
