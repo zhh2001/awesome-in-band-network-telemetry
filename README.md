@@ -61,6 +61,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **INT-path — Towards optimal path planning for in-band network-wide telemetry** — *IEEE INFOCOM, 2019*. [Paper](https://doi.org/10.1109/INFOCOM.2019.8737529)
 - **INTOPP — Orchestrating in-band data plane telemetry With machine learning** — *IEEE Communications Letters, 2019*. [Paper](https://doi.org/10.1109/LCOMM.2019.2946562)
 - **An optimization-based approach for efficient network monitoring using in-band network telemetry** — *Journal of Internet Services and Applications, 2019*. [Paper](https://doi.org/10.1186/s13174-019-0112-0)
+- **Programmable event detection for in-band network telemetry** — *IEEE CloudNet, 2019*. [Paper](https://doi.org/10.1109/CloudNet47604.2019.9064137)
 
 ### 2018
 
