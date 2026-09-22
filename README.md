@@ -23,6 +23,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **AdapINT — A Flexible and Adaptive In-Band Network Telemetry System Based on Deep Reinforcement Learning** — *IEEE Transactions on Network and Service Management, 2024*. [Paper](https://doi.org/10.1109/TNSM.2024.3427403)
 - **SecureINT — Toward Security-Enhanced In-Band Network Telemetry in Programmable Networks** — *IEEE Transactions on Network and Service Management, 2024*. [Paper](https://doi.org/10.1109/TNSM.2024.3504563)
 - **INT-Label — Lightweight In-Band Network-Wide Telemetry via Distributed Labeling** — *IEEE Transactions on Parallel and Distributed Systems, 2024*. [Paper](https://doi.org/10.1109/TPDS.2024.3367933)
+- **INT-Segment** — MTU-adaptive in-band network-wide telemetry — *IEEE/ACM Transactions on Networking, 2024*. [Paper](https://doi.org/10.1109/TNET.2024.3351672)
 - **P4InfoSen-INT — Information-Sensitive In-Band Network Telemetry in P4-Based Programmable Data Plane** — *IEEE/ACM Transactions on Networking, 2024*. [Paper](https://doi.org/10.1109/TNET.2024.3448244)
 - **CLINT — Controller-Assisted Lightweight In-Band Network Telemetry** — *IEEE Access, 2024*. [Paper](https://doi.org/10.1109/ACCESS.2024.3385674)
 - **OpenINT** — Dynamic in-band network telemetry with lightweight deployment and flexible planning — *IEEE INFOCOM, 2024*. [Paper](https://doi.org/10.1109/INFOCOM52122.2024.10621221)
@@ -46,7 +47,6 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 - **FINT — Flexible in-band network telemetry method for data center network** — *Computer Networks, 2022*. [Paper](https://doi.org/10.1016/j.comnet.2022.109232)
 - **IntOpt — In-band Network Telemetry optimization framework to monitor network slices using P4** — *Computer Networks, 2022*. [Paper](https://doi.org/10.1016/j.comnet.2022.109214)
-- **INT-Segment** — MTU-adaptive in-band network-wide telemetry — *IEEE/ACM Transactions on Networking, 2022*. [Paper](https://doi.org/10.1109/TNET.2024.3351672)
 - **INT-react** — An O(E) path planner for resilient network-wide telemetry over megascale networks — *IEEE ICNP, 2022*. [Paper](https://doi.org/10.1109/ICNP55882.2022.9940409)
 - **CodedINT** — Leveraging network coding to improve the visibility of in-band network telemetry — *IEEE ICC, 2022*. [Paper](https://doi.org/10.1109/ICC45855.2022.9838342)
 - **DyPro — Dynamic Probing Planning for In-Band Network Telemetry** — *IEEE ISCC, 2022*. [Paper](https://doi.org/10.1109/ISCC55528.2022.9912881)
