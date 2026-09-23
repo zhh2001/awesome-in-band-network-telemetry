@@ -12,6 +12,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **INTpress** — Compression-based quantized in-band network telemetry for low bandwidth overhead monitoring — *IEEE Transactions on Cloud Computing, 2026*. [Paper](https://doi.org/10.1109/TCC.2026.3690765)
 - **INTDirector** — Achieving lightweight in-band network telemetry with superior coverage — *Computer Networks, 2026*. [Paper](https://doi.org/10.1016/j.comnet.2026.112551)
 - **FreshINT** — Freshness-aware early reporting in in-band network telemetry systems — *IEEE INFOCOM, 2026*. [Paper](https://doi.org/10.1109/INFOCOM59046.2026.11571376)
+- **INTo6** — In-band network telemetry over IPv6 — *IEEE WCNC, 2026*. [Paper](https://doi.org/10.1109/WCNC65185.2026.11555103)
 - Leveraging FPGA-based SmartNICs for low-latency in-band network telemetry — *ICIN, 2026*. [Paper](https://doi.org/10.1109/ICIN69025.2026.11481846)
 
 ### 2025
