@@ -109,6 +109,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 ### 2018
 
 - **sINT** — Selective in-band network telemetry for overhead reduction — *IEEE CloudNet, 2018*. [Paper](https://doi.org/10.1109/CloudNet.2018.8549351)
+- **INTCollector** — A high-performance collector for in-band network telemetry — *CNSM, 2018*. [Paper](https://ieeexplore.ieee.org/document/8584997)
 
 ## Inclusion Criteria
 
