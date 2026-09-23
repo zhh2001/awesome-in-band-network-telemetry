@@ -25,19 +25,19 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 - **AdapINT** — A flexible and adaptive in-band network telemetry system based on deep reinforcement learning — *IEEE Transactions on Network and Service Management, 2024*. [Paper](https://doi.org/10.1109/TNSM.2024.3427403)
 - **SecureINT** — Toward security-enhanced in-band network telemetry in programmable networks — *IEEE Transactions on Network and Service Management, 2024*. [Paper](https://doi.org/10.1109/TNSM.2024.3504563)
+- **SFANT** — A SRv6-based flexible and active network telemetry scheme in programming data plane — *IEEE Transactions on Network Science and Engineering, 2024*. [Paper](https://doi.org/10.1109/TNSE.2023.3277000)
 - **INT-Label** — Lightweight in-band network-wide telemetry via distributed labeling — *IEEE Transactions on Parallel and Distributed Systems, 2024*. [Paper](https://doi.org/10.1109/TPDS.2024.3367933)
 - **INT-Segment** — MTU-adaptive in-band network-wide telemetry — *IEEE/ACM Transactions on Networking, 2024*. [Paper](https://doi.org/10.1109/TNET.2024.3351672)
 - **P4InfoSen-INT** — Information-sensitive in-band network telemetry in P4-based programmable data plane — *IEEE/ACM Transactions on Networking, 2024*. [Paper](https://doi.org/10.1109/TNET.2024.3448244)
 - **CLINT** — Controller-assisted lightweight in-band network telemetry — *IEEE Access, 2024*. [Paper](https://doi.org/10.1109/ACCESS.2024.3385674)
-- **OpenINT** — Dynamic in-band network telemetry with lightweight deployment and flexible planning — *IEEE INFOCOM, 2024*. [Paper](https://doi.org/10.1109/INFOCOM52122.2024.10621221)
 - **INTaaS** — Provisioning in-band network telemetry as a service via online learning — *Computer Networks, 2024*. [Paper](https://doi.org/10.1016/j.comnet.2024.110211)
 - **SPAN** — Reducing the in-band network telemetry overhead through the spatial sampling: Theory and experimental results — *Computer Networks, 2024*. [Paper](https://doi.org/10.1016/j.comnet.2024.110269)
+- **OpenINT** — Dynamic in-band network telemetry with lightweight deployment and flexible planning — *IEEE INFOCOM, 2024*. [Paper](https://doi.org/10.1109/INFOCOM52122.2024.10621221)
 - Frequency-aware and item-wise in-band network telemetry for per-flow measurement — *IEEE INFOCOM Workshops, 2024*. [Paper](https://doi.org/10.1109/INFOCOMWKSHPS61880.2024.10620783)
 
 ### 2023
 
 - **DLINT&PLINT** — Deterministic and probabilistic P4-enabled lightweight in-band network telemetry — *IEEE Transactions on Network and Service Management, 2023*. [Paper](https://doi.org/10.1109/TNSM.2023.3301839)
-- **SFANT** — A SRv6-based flexible and active network telemetry scheme in programming data plane — *IEEE Transactions on Network Science and Engineering, 2023*. [Paper](https://doi.org/10.1109/TNSE.2023.3277000)
 - **SINT** — Toward a blockchain-based secure in-band network telemetry architecture — *IEEE Transactions on Information Forensics and Security, 2023*. [Paper](https://doi.org/10.1109/TIFS.2023.3269891)
 - **OffsetINT** — Achieving high accuracy and low bandwidth for in-band network telemetry — *IEEE Transactions on Services Computing, 2023*. [Paper](https://doi.org/10.1109/TSC.2023.3323697)
 - **DeltaINT** — A general delta-based in-band network telemetry framework with extremely low bandwidth overhead — *Computer Networks, 2023*. [Paper](https://doi.org/10.1016/j.comnet.2023.109573)
