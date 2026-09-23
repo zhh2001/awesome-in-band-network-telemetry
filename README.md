@@ -114,6 +114,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - A SmartNIC-accelerated monitoring platform for in-band network telemetry — *IEEE LANMAN, 2020*. [Paper](https://doi.org/10.1109/LANMAN49260.2020.9153279)
 - A heuristic approach for large-scale orchestration of the in-band data plane telemetry problem — *AINA, 2020*. [Paper](https://doi.org/10.1007/978-3-030-44041-1_35)
 - In-band network telemetry in industrial wireless sensor networks — *IEEE Transactions on Network and Service Management, 2020*. [Paper](https://doi.org/10.1109/TNSM.2019.2949509)
+- Privacy-preserving multilayer in-band network telemetry and data analytics: For safety, please do not report plaintext data — *Journal of Lightwave Technology, 2020*. [Paper](https://doi.org/10.1109/JLT.2020.3007491)
 
 ### 2019
 
