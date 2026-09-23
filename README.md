@@ -71,6 +71,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **DINT** — A dynamic algorithm for in-band network telemetry — *SBRC, 2023*. [Paper](https://doi.org/10.5753/sbrc.2023.531)
 - **MPolKA-INT** — Stateless multipath source routing for in-band network telemetry — *AINA, 2023*. [Paper](https://doi.org/10.1007/978-3-031-28451-9_45)
 - **NetworkSight** — Fast and on-demand network-wide telemetry via cluster based path planning — *Journal of Internet Technology, 2023*. [Paper](https://jit.ndhu.edu.tw/article/view/2982)
+- Distributed in-band network telemetry — *IEEE/ACM CCGrid Workshops, 2023*. [Paper](https://doi.org/10.1109/CCGridW59191.2023.00060)
 
 ### 2022
 
