@@ -46,6 +46,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **OpenINT** — Dynamic in-band network telemetry with lightweight deployment and flexible planning — *IEEE INFOCOM, 2024*. [Paper](https://doi.org/10.1109/INFOCOM52122.2024.10621221)
 - **INToSR** — Building a novel in-band network telemetry over SRv6 — *IEEE ISPA, 2024*. [Paper](https://doi.org/10.1109/ISPA63168.2024.00236)
 - Lightweight INT on the Tofino programmable switch — *ACM MobiCom, 2024*. [Paper](https://doi.org/10.1145/3636534.3696729)
+- In-band network-wide telemetry for topology-varying LEO satellite networks — *IEEE GLOBECOM, 2024*. [Paper](https://doi.org/10.1109/GLOBECOM52923.2024.10900986)
 
 ### 2023
 
