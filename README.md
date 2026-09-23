@@ -6,11 +6,11 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 ### 2026
 
-- **TT-INT** — A time-threshold-based lightweight in-band network telemetry scheme for P4-enabled programmable networks — *IEEE TNSM, 2026*. [Paper](https://doi.org/10.1109/TNSM.2026.3688086)
-- **SecureINT** — Toward security-enhanced in-band network telemetry in programmable networks — *IEEE TNSM, 2026*. [Paper](https://doi.org/10.1109/TNSM.2024.3504563)
-- **CASINT** — Congestion-aware selective in-band network telemetry for low traffic overhead and high-accuracy anomaly detection — *IEEE Transactions on Vehicular Technology, 2026*. [Paper](https://doi.org/10.1109/TVT.2026.3713202)
-- **INTpress** — Compression-based quantized in-band network telemetry for low bandwidth overhead monitoring — *IEEE TCC, 2026*. [Paper](https://doi.org/10.1109/TCC.2026.3690765)
-- **INTDirector** — Achieving lightweight in-band network telemetry with superior coverage — *Computer Networks, 2026*. [Paper](https://doi.org/10.1016/j.comnet.2026.112551)
+- **TT-INT** — A time-threshold-based lightweight in-band network telemetry scheme for P4-enabled programmable networks — *IEEE TNSM*. [Paper](https://doi.org/10.1109/TNSM.2026.3688086)
+- **SecureINT** — Toward security-enhanced in-band network telemetry in programmable networks — *IEEE TNSM*. [Paper](https://doi.org/10.1109/TNSM.2024.3504563)
+- **CASINT** — Congestion-aware selective in-band network telemetry for low traffic overhead and high-accuracy anomaly detection — *IEEE Transactions on Vehicular Technology*. [Paper](https://doi.org/10.1109/TVT.2026.3713202)
+- **INTpress** — Compression-based quantized in-band network telemetry for low bandwidth overhead monitoring — *IEEE TCC*. [Paper](https://doi.org/10.1109/TCC.2026.3690765)
+- **INTDirector** — Achieving lightweight in-band network telemetry with superior coverage — *Computer Networks*. [Paper](https://doi.org/10.1016/j.comnet.2026.112551)
 - **SPRINT** — Line-rate in-band network telemetry recovery for application optimization — *IEEE INFOCOM, 2026*. [Paper](https://doi.org/10.1109/INFOCOM59046.2026.11571646)
 - **FreshINT** — Freshness-aware early reporting in in-band network telemetry systems — *IEEE INFOCOM, 2026*. [Paper](https://doi.org/10.1109/INFOCOM59046.2026.11571376)
 - **INTo6** — In-band network telemetry over IPv6 — *IEEE WCNC, 2026*. [Paper](https://doi.org/10.1109/WCNC65185.2026.11555103)
