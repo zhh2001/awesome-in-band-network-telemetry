@@ -2,7 +2,7 @@
 
 A curated chronological list of research papers that explicitly study **In-Band Network Telemetry (INT)** mechanisms.
 
-**Missing a paper?** Please [submit a paper](/issues/new?template=paper-submission.yml). Authors are welcome to submit their own work.
+**Missing a paper?** Please [submit a paper](https://github.com/zhh2001/awesome-in-band-network-telemetry/issues/new?template=paper-submission.yml). Authors are welcome to submit their own work.
 
 ## Papers
 
@@ -179,7 +179,7 @@ This list aims to be selective rather than exhaustive. Relevance to INT is prior
 
 Contributions are welcome.
 
-If you know of a paper that is missing from this list, please [submit a paper](/issues/new?template=paper-submission.yml).
+If you know of a paper that is missing from this list, please [submit a paper](https://github.com/zhh2001/awesome-in-band-network-telemetry/issues/new?template=paper-submission.yml).
 
 Authors are welcome to submit their own work, and readers are encouraged to suggest relevant papers by other researchers.
 
