@@ -106,6 +106,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - Orchestrating probabilistic in-band network telemetry for network monitoring — *ICCC, 2021*. [Paper](https://doi.org/10.1109/ICCC54389.2021.9674307)
 - In-band network telemetry task orchestration based on multi-objective optimization — *APNOMS, 2021*. [Paper](https://doi.org/10.23919/APNOMS52696.2021.9562646)
 - A flexible P4-based pin-point in-band network monitoring — *APNOMS, 2021*. [Paper](https://doi.org/10.23919/APNOMS52696.2021.9562620)
+- In-band network monitoring technique to support SDN-based wireless networks — *IEEE Transactions on Network and Service Management, 2021*. [Paper](https://doi.org/10.1109/TNSM.2020.3044415)
 
 ### 2020
 
