@@ -1,0 +1,87 @@
+name: Submit a paper
+description: Suggest an INT paper for inclusion in this repository
+title: "[Paper] "
+labels:
+  - paper-submission
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a paper for inclusion.
+
+        This repository includes papers only when In-Band Network Telemetry (INT)
+        itself is a central research subject.
+
+        Authors are welcome to submit their own papers.
+
+  - type: input
+    id: title
+    attributes:
+      label: Paper title
+      description: Please provide the full title of the paper.
+      placeholder: Full title of the paper
+    validations:
+      required: true
+
+  - type: input
+    id: venue
+    attributes:
+      label: Venue
+      description: Please provide the conference, workshop, or journal name.
+      placeholder: e.g., IEEE INFOCOM, ACM SIGCOMM, IEEE TNSM
+    validations:
+      required: true
+
+  - type: input
+    id: year
+    attributes:
+      label: Publication year
+      placeholder: e.g., 2026
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: DOI or official paper link
+      description: Prefer a DOI or publisher page when available.
+      placeholder: DOI or official paper link
+    validations:
+      required: true
+
+  - type: textarea
+    id: contribution
+    attributes:
+      label: Why should this paper be included?
+      description: >
+        Briefly explain how this paper proposes, studies, or improves
+        an INT mechanism. Please do not simply paste the abstract.
+      placeholder: >
+        This paper should be included because it proposes/improves...
+    validations:
+      required: true
+
+  - type: textarea
+    id: versions
+    attributes:
+      label: Related versions
+      description: >
+        If this work also has a conference, workshop, journal,
+        poster, demo, or preprint version, please list it here.
+      placeholder: >
+        Optional. For example: extended journal version of ...
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission checklist
+      options:
+        - label: INT itself is a central research subject of this paper.
+          required: true
+        - label: I have checked that this paper is not already listed in the README.
+          required: true
+        - label: This is not only a poster, demo, thesis, or preprint when a formal archival version is available.
+          required: true
