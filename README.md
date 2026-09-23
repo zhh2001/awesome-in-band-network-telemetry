@@ -69,6 +69,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **INT-react** — An O(E) path planner for resilient network-wide telemetry over megascale networks — *IEEE ICNP, 2022*. [Paper](https://doi.org/10.1109/ICNP55882.2022.9940409)
 - **CodedINT** — Leveraging network coding to improve the visibility of in-band network telemetry — *IEEE ICC, 2022*. [Paper](https://doi.org/10.1109/ICC45855.2022.9838342)
 - **DyPro** — Dynamic probing planning for in-band network telemetry — *IEEE ISCC, 2022*. [Paper](https://doi.org/10.1109/ISCC55528.2022.9912881)
+- Task Scheduling for Probabilistic In -Band Network Telemetry — *IEEE/ACM Transactions on Networking, 2022*. [Paper](https://doi.org/10.1109/TNET.2022.3189370)
 
 ### 2021
 
