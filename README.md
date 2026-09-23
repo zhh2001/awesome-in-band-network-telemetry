@@ -23,6 +23,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **INT-LLPP** — Lightweight in-band network-wide telemetry with low-latency and low-overhead path planning — *Computer Communications, 2025*. [Paper](https://doi.org/10.1016/j.comcom.2025.108142)
 - **INT-MC** — Low-overhead in-band network-wide telemetry based on matrix completion — *ACM SIGMETRICS, 2025*. [Paper](https://doi.org/10.1145/3726854.3727291)
 - **FAT-INT** — Frequency-aware and item-wise in-band network telemetry for low-overhead and accurate measurement — *ACM CoNEXT, 2025*. [Paper](https://doi.org/10.1145/3749218)
+- **ATINT** — Planning for anomaly-tolerant probing for network-wide in-band network telemetry — *IEEE ICC, 2025*. [Paper](https://doi.org/10.1109/ICC52391.2025.11160743)
 
 ### 2024
 
