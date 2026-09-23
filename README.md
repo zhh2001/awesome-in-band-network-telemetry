@@ -81,6 +81,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **GPINT** — Efficient network monitoring via in-band telemetry — *DRCN, 2021*. [Paper](https://doi.org/10.1109/DRCN51631.2021.9477344)
 - **MPINT** — Multipath in-band network telemetry — *IEEE INFOCOM Workshops, 2021*. [Paper](https://doi.org/10.1109/INFOCOMWKSHPS51825.2021.9484494)
 - **VXLAN-based INT** — In-band network telemetry for overlay network monitoring — *IEEE INFOCOM Workshops, 2021*. [Paper](https://doi.org/10.1109/INFOCOMWKSHPS51825.2021.9484508)
+- **INT-probe** — Lightweight in-band network-wide telemetry with stationary probes — *IEEE ICDCS, 2021*. [Paper](https://doi.org/10.1109/ICDCS51616.2021.00090)
 - **LINT** — Accuracy-adaptive and lightweight in-band network telemetry — *IFIP/IEEE IM, 2021*. [Paper](https://ieeexplore.ieee.org/document/9464012)
 - In-band network telemetry task orchestration based on multi-objective optimization — *APNOMS, 2021*. [Paper](https://doi.org/10.23919/APNOMS52696.2021.9562646)
 
