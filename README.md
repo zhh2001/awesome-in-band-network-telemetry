@@ -14,6 +14,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 ### 2025
 
 - **FINT** — Freshness-based in-band network-wide telemetry in resource-constrained environments — *IEEE Transactions on Network and Service Management, 2025*. [Paper](https://doi.org/10.1109/TNSM.2024.3500586)
+- **D-INTO** — Self-adaptive dynamic in-band network telemetry orchestration for balancing accuracy and stability — *IEEE Transactions on Network and Service Management, 2025*. [Paper](https://doi.org/10.1109/TNSM.2025.3530432)
 - **NTP-INT** — Network traffic prediction-driven in-band network telemetry for high-load switches — *Journal of Network and Computer Applications, 2025*. [Paper](https://doi.org/10.1016/j.jnca.2025.104265)
 - **Cache-INT** — In-network caching-enabled In-band Network Telemetry — *Computer Networks, 2025*. [Paper](https://doi.org/10.1016/j.comnet.2025.111404)
 - **FANT** — Flexible active in-band network telemetry — *Computer Communications, 2025*. [Paper](https://doi.org/10.1016/j.comcom.2025.108336)
