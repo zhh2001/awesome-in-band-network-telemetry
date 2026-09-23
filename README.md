@@ -151,7 +151,7 @@ Papers are grouped by the publication year of their final bibliographic record (
 
 ## Version Policy
 
-When a later publication substantially extends an earlier version of the same work, only the latest version is listed to avoid duplicate entries.
+When multiple publications report substantially the same work without introducing a distinct named scheme/system or a materially different INT mechanism or architecture, only the latest or most complete version is listed. Publications that introduce distinct named schemes/systems or materially different INT mechanisms or architectures are listed separately, even when one builds upon another.
 
 ## Note
 
