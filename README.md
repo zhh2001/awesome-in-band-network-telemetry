@@ -21,8 +21,8 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 - **FINT** — Freshness-based in-band network-wide telemetry in resource-constrained environments — *IEEE TNSM, 2025*. [Paper](https://doi.org/10.1109/TNSM.2024.3500586)
 - **D-INTO** — Self-adaptive dynamic in-band network telemetry orchestration for balancing accuracy and stability — *IEEE TNSM, 2025*. [Paper](https://doi.org/10.1109/TNSM.2025.3530432)
-- **INT-Partition** — Hierarchical and fault-tolerant in-band network telemetry — *IEEE Transactions on Networking, 2025*. [Paper](https://doi.org/10.1109/TON.2025.3569340)
-- **INT-Source** — Topology-adaptive in-band network-wide telemetry — *IEEE Transactions on Networking, 2025*. [Paper](https://doi.org/10.1109/TON.2025.3589194)
+- **INT-Partition** — Hierarchical and fault-tolerant in-band network telemetry — *IEEE ToN, 2025*. [Paper](https://doi.org/10.1109/TON.2025.3569340)
+- **INT-Source** — Topology-adaptive in-band network-wide telemetry — *IEEE ToN, 2025*. [Paper](https://doi.org/10.1109/TON.2025.3589194)
 - **FDSR-INT** — A flexible on-demand in-band telemetry approach for aerial computing networks — *IEEE Internet of Things Journal, 2025*. [Paper](https://doi.org/10.1109/JIOT.2025.3551279)
 - **NTP-INT** — Network traffic prediction-driven in-band network telemetry for high-load switches — *Journal of Network and Computer Applications, 2025*. [Paper](https://doi.org/10.1016/j.jnca.2025.104265)
 - **Cache-INT** — In-network caching-enabled in-band network telemetry — *Computer Networks, 2025*. [Paper](https://doi.org/10.1016/j.comnet.2025.111404)
