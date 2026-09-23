@@ -113,6 +113,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **Patcher** — Towards fault-tolerant probing planning for in-band network telemetry — *IEEE LATINCOM, 2020*. [Paper](https://doi.org/10.1109/LATINCOM50620.2020.9282348)
 - A SmartNIC-accelerated monitoring platform for in-band network telemetry — *IEEE LANMAN, 2020*. [Paper](https://doi.org/10.1109/LANMAN49260.2020.9153279)
 - A heuristic approach for large-scale orchestration of the in-band data plane telemetry problem — *AINA, 2020*. [Paper](https://doi.org/10.1007/978-3-030-44041-1_35)
+- In-band network telemetry in industrial wireless sensor networks — *IEEE Transactions on Network and Service Management, 2020*. [Paper](https://doi.org/10.1109/TNSM.2019.2949509)
 
 ### 2019
 
