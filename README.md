@@ -44,6 +44,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **SPAN** — Reducing the in-band network telemetry overhead through the spatial sampling: Theory and experimental results — *Computer Networks, 2024*. [Paper](https://doi.org/10.1016/j.comnet.2024.110269)
 - **uINT** — Utility-based sampling rate allocation in in-band network telemetry for high network visibility — *ICT Express, 2024*. [Paper](https://doi.org/10.1016/j.icte.2023.06.008)
 - **OpenINT** — Dynamic in-band network telemetry with lightweight deployment and flexible planning — *IEEE INFOCOM, 2024*. [Paper](https://doi.org/10.1109/INFOCOM52122.2024.10621221)
+- **INToSR** — Building a novel in-band network telemetry over SRv6 — *IEEE ISPA, 2024*. [Paper](https://doi.org/10.1109/ISPA63168.2024.00236)
 
 ### 2023
 
