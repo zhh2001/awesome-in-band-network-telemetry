@@ -28,6 +28,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **FAT-INT** — Frequency-aware and item-wise in-band network telemetry for low-overhead and accurate measurement — *ACM CoNEXT, 2025*. [Paper](https://doi.org/10.1145/3749218)
 - **ATINT** — Planning for anomaly-tolerant probing for network-wide in-band network telemetry — *IEEE ICC, 2025*. [Paper](https://doi.org/10.1109/ICC52391.2025.11160743)
 - **SRv6-ALINT** — SRv6-based efficient in-band network-wide telemetry across LANs — *ICCCN, 2025*. [Paper](https://doi.org/10.1109/ICCCN65249.2025.11133970)
+- **INT-LLM** — Adaptive path planner for in-band network telemetry via large language models — *ICIC, 2025*. [Paper](https://doi.org/10.1007/978-981-96-9914-8_17)
 
 ### 2024
 
