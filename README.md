@@ -2,6 +2,8 @@
 
 A curated chronological list of research papers that explicitly study **In-Band Network Telemetry (INT)** mechanisms.
 
+**Missing a paper?** Please [submit a paper](/issues/new?template=paper-submission.yml). Authors are welcome to submit their own work.
+
 ## Papers
 
 ### 2026
@@ -172,3 +174,20 @@ When multiple publications report substantially the same work without introducin
 ## Note
 
 This list aims to be selective rather than exhaustive. Relevance to INT is prioritized over quantity.
+
+## Contributing
+
+Contributions are welcome.
+
+If you know of a paper that is missing from this list, please [submit a paper](/issues/new?template=paper-submission.yml).
+
+Authors are welcome to submit their own work, and readers are encouraged to suggest relevant papers by other researchers.
+
+Before submitting, please make sure that:
+
+- INT itself is a central research subject of the paper rather than merely a measurement tool for another networking problem.
+- The paper is a formal archival conference, workshop, or journal publication.
+- Poster, demo, thesis, and preprint-only versions should not be submitted when a formal archival version exists.
+- If multiple versions of substantially the same work exist, please submit the latest or most complete archival version.
+
+You only need to provide the paper title, venue, publication year, DOI or official link, and a brief explanation of its INT contribution. The final inclusion decision and README formatting are handled by the maintainer.
