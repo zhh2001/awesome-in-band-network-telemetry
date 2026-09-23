@@ -126,7 +126,7 @@ A paper is included only when **In-Band Network Telemetry (INT) itself is a cent
 
 Papers that merely **use INT as a measurement tool for another networking problem** are not included.
 
-General network telemetry papers, surveys, standards/specifications, and approaches primarily based on other telemetry technologies are also excluded.
+General network telemetry papers, surveys, standards/specifications, and approaches primarily based on other telemetry technologies are also excluded. Posters, demos, theses, arXiv-only manuscripts, and other non-archival publications are excluded.
 
 ## Publication Year
 
