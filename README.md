@@ -24,7 +24,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **INT-Source** — Topology-adaptive in-band network-wide telemetry — *IEEE Transactions on Networking, 2025*. [Paper](https://doi.org/10.1109/TON.2025.3589194)
 - **FDSR-INT** — A flexible on-demand in-band telemetry approach for aerial computing networks — *IEEE Internet of Things Journal, 2025*. [Paper](https://doi.org/10.1109/JIOT.2025.3551279)
 - **NTP-INT** — Network traffic prediction-driven in-band network telemetry for high-load switches — *Journal of Network and Computer Applications, 2025*. [Paper](https://doi.org/10.1016/j.jnca.2025.104265)
-- **Cache-INT** — In-network caching-enabled In-band Network Telemetry — *Computer Networks, 2025*. [Paper](https://doi.org/10.1016/j.comnet.2025.111404)
+- **Cache-INT** — In-network caching-enabled in-band network telemetry — *Computer Networks, 2025*. [Paper](https://doi.org/10.1016/j.comnet.2025.111404)
 - **Probe-Optimizer** — Discovering important nodes for proactive in-band network telemetry to achieve better probe orchestration — *Computer Networks, 2025*. [Paper](https://doi.org/10.1016/j.comnet.2024.110935)
 - **FANT** — Flexible active in-band network telemetry — *Computer Communications, 2025*. [Paper](https://doi.org/10.1016/j.comcom.2025.108336)
 - **INT-LLPP** — Lightweight in-band network-wide telemetry with low-latency and low-overhead path planning — *Computer Communications, 2025*. [Paper](https://doi.org/10.1016/j.comcom.2025.108142)
@@ -82,7 +82,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 - **FINT** — Flexible in-band network telemetry method for data center network — *Computer Networks, 2022*. [Paper](https://doi.org/10.1016/j.comnet.2022.109232)
 - **IntOpt** — In-band network telemetry optimization framework to monitor network slices using P4 — *Computer Networks, 2022*. [Paper](https://doi.org/10.1016/j.comnet.2022.109214)
-- **FindINT** — Detect and Locate the Lost in-Band Network Telemetry Packet — *IEEE Networking Letters, 2022*. [Paper](https://doi.org/10.1109/LNET.2021.3067343)
+- **FindINT** — Detect and locate the lost in-band network telemetry packet — *IEEE Networking Letters, 2022*. [Paper](https://doi.org/10.1109/LNET.2021.3067343)
 - **INT-react** — An O(E) path planner for resilient network-wide telemetry over megascale networks — *IEEE ICNP, 2022*. [Paper](https://doi.org/10.1109/ICNP55882.2022.9940409)
 - **CodedINT** — Leveraging network coding to improve the visibility of in-band network telemetry — *IEEE ICC, 2022*. [Paper](https://doi.org/10.1109/ICC45855.2022.9838342)
 - **DyPro** — Dynamic probing planning for in-band network telemetry — *IEEE ISCC, 2022*. [Paper](https://doi.org/10.1109/ISCC55528.2022.9912881)
