@@ -34,6 +34,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **AMSO-INT** — Reinforcement learning-driven dynamic adaptive in-band telemetry — *NAIC, 2025*. [Paper](https://doi.org/10.1145/3748273.3749207)
 - **Int-Selection** — Passive in-band network-wide telemetry based on flow selection — *IEEE/ACM IWQoS, 2025*. [Paper](https://doi.org/10.1109/IWQoS65803.2025.11143315)
 - **Planner** — A generative graph learning framework for noisy and dynamic in-band network telemetry — *IEEE ICNP, 2025*. [Paper](https://doi.org/10.1109/ICNP65844.2025.11192325)
+- **Patrol** — Max-min passive-active hybrid in-band network telemetry method in SDN — *IEEE ISPA, 2025*. [Paper](https://doi.org/10.1109/ISPA67752.2025.00082)
 - **ATINT** — Planning for anomaly-tolerant probing for network-wide in-band network telemetry — *IEEE ICC, 2025*. [Paper](https://doi.org/10.1109/ICC52391.2025.11160743)
 - **SRv6-ALINT** — SRv6-based efficient in-band network-wide telemetry across LANs — *ICCCN, 2025*. [Paper](https://doi.org/10.1109/ICCCN65249.2025.11133970)
 - **INT-LLM** — Adaptive path planner for in-band network telemetry via large language models — *ICIC, 2025*. [Paper](https://doi.org/10.1007/978-981-96-9914-8_17)
