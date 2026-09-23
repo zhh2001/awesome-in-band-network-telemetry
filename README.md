@@ -63,6 +63,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - P4-Based in-network telemetry for FPGAs in the Open Cloud Testbed and FABRIC — *IEEE INFOCOM Workshops, 2024*. [Paper](https://doi.org/10.1109/INFOCOMWKSHPS61880.2024.10620664)
 - In-band network-wide telemetry for topology-varying LEO satellite networks — *IEEE GLOBECOM, 2024*. [Paper](https://doi.org/10.1109/GLOBECOM52923.2024.10900986)
 - A flexible in-band network telemetry framework for heterogeneous private networks — *IEEE WFCS, 2024*. [Paper](https://doi.org/10.1109/WFCS60972.2024.10540842)
+- Improved routing for the in-band network telemetry problem — *ICMSQUARE, 2024*. [Paper](https://doi.org/10.1007/978-3-031-52965-8_46)
 
 ### 2023
 
