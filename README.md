@@ -52,6 +52,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 - **DLINT&PLINT** — Deterministic and probabilistic P4-enabled lightweight in-band network telemetry — *IEEE Transactions on Network and Service Management, 2023*. [Paper](https://doi.org/10.1109/TNSM.2023.3301839)
 - **SINT** — Toward a blockchain-based secure in-band network telemetry architecture — *IEEE Transactions on Information Forensics and Security, 2023*. [Paper](https://doi.org/10.1109/TIFS.2023.3269891)
+- **SketchINT** — Empowering INT with TowerSketch for per-flow per-switch measurement — *IEEE Transactions on Parallel and Distributed Systems, 2023*. [Paper](https://doi.org/10.1109/TPDS.2023.3303924)
 - **DeltaINT** — A general delta-based in-band network telemetry framework with extremely low bandwidth overhead — *Computer Networks, 2023*. [Paper](https://doi.org/10.1016/j.comnet.2023.109573)
 - **SONM-SR-INT** — Selective and on-demand network measurement with SRv6 and INT — *Computer Networks, 2023*. [Paper](https://doi.org/10.1016/j.comnet.2023.109914)
 - **INT-Balance** — In-band network-wide telemetry with balanced monitoring path planning — *IEEE ICC, 2023*. [Paper](https://doi.org/10.1109/ICC45041.2023.10279077)
