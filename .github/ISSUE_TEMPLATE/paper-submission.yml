@@ -10,10 +10,9 @@ body:
       value: |
         Thanks for suggesting a paper for inclusion.
 
-        This repository includes papers only when In-Band Network Telemetry (INT)
-        itself is a central research subject.
+        This repository includes papers only when In-Band Network Telemetry (INT) itself is a central research subject.
 
-        Authors are welcome to submit their own papers.
+        Authors are welcome to submit their own work, and readers are also encouraged to suggest relevant papers by other researchers.
 
   - type: input
     id: title
