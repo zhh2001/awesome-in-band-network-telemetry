@@ -7,8 +7,8 @@ A curated chronological list of research papers that explicitly study **In-Band 
 ### 2026
 
 - **TT-INT** — A time-threshold-based lightweight in-band network telemetry scheme for P4-enabled programmable networks — *IEEE Transactions on Network and Service Management, 2026*. [Paper](https://doi.org/10.1109/TNSM.2026.3688086)
-- **CASINT** — Congestion-Aware Selective In-band Network Telemetry for Low Traffic Overhead and High-Accuracy Anomaly Detection — *IEEE Transactions on Vehicular Technology, 2026*. [Paper](https://doi.org/10.1109/TVT.2026.3713202)
-- **INTpress** — Compression-Based Quantized In-Band Network Telemetry for Low Bandwidth Overhead Monitoring — *IEEE Transactions on Cloud Computing, 2026*. [Paper](https://doi.org/10.1109/TCC.2026.3690765)
+- **CASINT** — Congestion-aware selective in-band network telemetry for low traffic overhead and high-accuracy anomaly detection — *IEEE Transactions on Vehicular Technology, 2026*. [Paper](https://doi.org/10.1109/TVT.2026.3713202)
+- **INTpress** — Compression-based quantized in-band network telemetry for low bandwidth overhead monitoring — *IEEE Transactions on Cloud Computing, 2026*. [Paper](https://doi.org/10.1109/TCC.2026.3690765)
 - **INTDirector** — Achieving lightweight in-band network telemetry with superior coverage — *Computer Networks, 2026*. [Paper](https://doi.org/10.1016/j.comnet.2026.112551)
 
 ### 2025
