@@ -13,10 +13,11 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 ### 2025
 
-- **NTP-INT — Network traffic prediction-driven in-band network telemetry for high-load switches** — *Journal of Network and Computer Applications, 2025*. [Paper](https://doi.org/10.1016/j.jnca.2025.104265)
-- **Cache-INT — In-network caching-enabled In-band Network Telemetry** — *Computer Networks, 2025*. [Paper](https://doi.org/10.1016/j.comnet.2025.111404)
-- **FANT — Flexible active in-band network telemetry** — *Computer Communications, 2025*. [Paper](https://doi.org/10.1016/j.comcom.2025.108336)
-- **INT-LLPP — Lightweight in-band network-wide telemetry with low-latency and low-overhead path planning** — *Computer Communications, 2025*. [Paper](https://doi.org/10.1016/j.comcom.2025.108142)
+- **FINT** — Freshness-based in-band network-wide telemetry in resource-constrained environments — *IEEE Transactions on Network and Service Management, 2025*. [Paper](https://doi.org/10.1109/TNSM.2024.3500586)
+- **NTP-INT** — Network traffic prediction-driven in-band network telemetry for high-load switches — *Journal of Network and Computer Applications, 2025*. [Paper](https://doi.org/10.1016/j.jnca.2025.104265)
+- **Cache-INT** — In-network caching-enabled In-band Network Telemetry — *Computer Networks, 2025*. [Paper](https://doi.org/10.1016/j.comnet.2025.111404)
+- **FANT** — Flexible active in-band network telemetry — *Computer Communications, 2025*. [Paper](https://doi.org/10.1016/j.comcom.2025.108336)
+- **INT-LLPP** — Lightweight in-band network-wide telemetry with low-latency and low-overhead path planning — *Computer Communications, 2025*. [Paper](https://doi.org/10.1016/j.comcom.2025.108142)
 - **INT-MC** — Low-overhead in-band network-wide telemetry based on matrix completion — *ACM SIGMETRICS, 2025*. [Paper](https://doi.org/10.1145/3726854.3727291)
 
 ### 2024
