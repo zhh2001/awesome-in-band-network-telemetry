@@ -71,6 +71,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 ### 2020
 
+- **Sel-INT** — A runtime-programmable selective in-band network telemetry system — *IEEE Transactions on Network and Service Management, 2019*. [Paper](https://doi.org/10.1109/TNSM.2019.2953327)
 - **PINT** — Probabilistic in-band network telemetry — *ACM SIGCOMM, 2020*. [Paper](https://doi.org/10.1145/3387514.3405894)
 - **FS-INT** — Flexible sampling-based in-band network telemetry in programmable data plane — *ICT Express, 2020*. [Paper](https://doi.org/10.1016/j.icte.2019.08.005)
 - **Fast-INT** — Light-weight and efficient in-band network telemetry in programmable data plane — *IEEE VTC, 2020*. [Paper](https://doi.org/10.1109/VTC2020-Fall49728.2020.9348823)
@@ -80,7 +81,6 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 ### 2019
 
-- **Sel-INT** — A runtime-programmable selective in-band network telemetry system — *IEEE Transactions on Network and Service Management, 2019*. [Paper](https://doi.org/10.1109/TNSM.2019.2953327)
 - **ML-INT** — Visualize your IP-over-optical network in realtime: A P4-based flexible multilayer in-band network telemetry system — *IEEE Access, 2019*. [Paper](https://doi.org/10.1109/ACCESS.2019.2924332)
 - **INT-path** — Towards optimal path planning for in-band network-wide telemetry — *IEEE INFOCOM, 2019*. [Paper](https://doi.org/10.1109/INFOCOM.2019.8737529)
 - **INTOPP** — Orchestrating in-band data plane telemetry With machine learning — *IEEE Communications Letters, 2019*. [Paper](https://doi.org/10.1109/LCOMM.2019.2946562)
