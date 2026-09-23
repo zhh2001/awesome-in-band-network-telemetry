@@ -7,6 +7,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 ### 2026
 
 - **TT-INT** — A time-threshold-based lightweight in-band network telemetry scheme for P4-enabled programmable networks — *IEEE Transactions on Network and Service Management, 2026*. [Paper](https://doi.org/10.1109/TNSM.2026.3688086)
+- **SecureINT** — Toward security-enhanced in-band network telemetry in programmable networks — *IEEE Transactions on Network and Service Management, 2026*. [Paper](https://doi.org/10.1109/TNSM.2024.3504563)
 - **CASINT** — Congestion-aware selective in-band network telemetry for low traffic overhead and high-accuracy anomaly detection — *IEEE Transactions on Vehicular Technology, 2026*. [Paper](https://doi.org/10.1109/TVT.2026.3713202)
 - **INTpress** — Compression-based quantized in-band network telemetry for low bandwidth overhead monitoring — *IEEE Transactions on Cloud Computing, 2026*. [Paper](https://doi.org/10.1109/TCC.2026.3690765)
 - **INTDirector** — Achieving lightweight in-band network telemetry with superior coverage — *Computer Networks, 2026*. [Paper](https://doi.org/10.1016/j.comnet.2026.112551)
@@ -30,7 +31,6 @@ A curated chronological list of research papers that explicitly study **In-Band 
 ### 2024
 
 - **AdapINT** — A flexible and adaptive in-band network telemetry system based on deep reinforcement learning — *IEEE Transactions on Network and Service Management, 2024*. [Paper](https://doi.org/10.1109/TNSM.2024.3427403)
-- **SecureINT** — Toward security-enhanced in-band network telemetry in programmable networks — *IEEE Transactions on Network and Service Management, 2024*. [Paper](https://doi.org/10.1109/TNSM.2024.3504563)
 - **SFANT** — A SRv6-based flexible and active network telemetry scheme in programming data plane — *IEEE Transactions on Network Science and Engineering, 2024*. [Paper](https://doi.org/10.1109/TNSE.2023.3277000)
 - **INT-Label** — Lightweight in-band network-wide telemetry via distributed labeling — *IEEE Transactions on Parallel and Distributed Systems, 2024*. [Paper](https://doi.org/10.1109/TPDS.2024.3367933)
 - **INT-Segment** — MTU-adaptive in-band network-wide telemetry — *IEEE/ACM Transactions on Networking, 2024*. [Paper](https://doi.org/10.1109/TNET.2024.3351672)
