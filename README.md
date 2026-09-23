@@ -19,17 +19,17 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 ### 2025
 
-- **FINT** — Freshness-based in-band network-wide telemetry in resource-constrained environments — *IEEE TNSM, 2025*. [Paper](https://doi.org/10.1109/TNSM.2024.3500586)
-- **D-INTO** — Self-adaptive dynamic in-band network telemetry orchestration for balancing accuracy and stability — *IEEE TNSM, 2025*. [Paper](https://doi.org/10.1109/TNSM.2025.3530432)
-- **INT-Partition** — Hierarchical and fault-tolerant in-band network telemetry — *IEEE ToN, 2025*. [Paper](https://doi.org/10.1109/TON.2025.3569340)
-- **INT-Source** — Topology-adaptive in-band network-wide telemetry — *IEEE ToN, 2025*. [Paper](https://doi.org/10.1109/TON.2025.3589194)
-- **FDSR-INT** — A flexible on-demand in-band telemetry approach for aerial computing networks — *IEEE Internet of Things Journal, 2025*. [Paper](https://doi.org/10.1109/JIOT.2025.3551279)
-- **NTP-INT** — Network traffic prediction-driven in-band network telemetry for high-load switches — *Journal of Network and Computer Applications, 2025*. [Paper](https://doi.org/10.1016/j.jnca.2025.104265)
-- **Cache-INT** — In-network caching-enabled in-band network telemetry — *Computer Networks, 2025*. [Paper](https://doi.org/10.1016/j.comnet.2025.111404)
-- **Probe-Optimizer** — Discovering important nodes for proactive in-band network telemetry to achieve better probe orchestration — *Computer Networks, 2025*. [Paper](https://doi.org/10.1016/j.comnet.2024.110935)
-- **FANT** — Flexible active in-band network telemetry — *Computer Communications, 2025*. [Paper](https://doi.org/10.1016/j.comcom.2025.108336)
-- **INT-LLPP** — Lightweight in-band network-wide telemetry with low-latency and low-overhead path planning — *Computer Communications, 2025*. [Paper](https://doi.org/10.1016/j.comcom.2025.108142)
-- **EvoTrace** — A lightweight in-band network telemetry method based on nonlinear embedding and batch processing — *Computer Science, 2025*. [Paper](https://doi.org/10.11896/jsjkx.240100164)
+- **FINT** — Freshness-based in-band network-wide telemetry in resource-constrained environments — *IEEE TNSM*. [Paper](https://doi.org/10.1109/TNSM.2024.3500586)
+- **D-INTO** — Self-adaptive dynamic in-band network telemetry orchestration for balancing accuracy and stability — *IEEE TNSM*. [Paper](https://doi.org/10.1109/TNSM.2025.3530432)
+- **INT-Partition** — Hierarchical and fault-tolerant in-band network telemetry — *IEEE ToN*. [Paper](https://doi.org/10.1109/TON.2025.3569340)
+- **INT-Source** — Topology-adaptive in-band network-wide telemetry — *IEEE ToN*. [Paper](https://doi.org/10.1109/TON.2025.3589194)
+- **FDSR-INT** — A flexible on-demand in-band telemetry approach for aerial computing networks — *IEEE Internet of Things Journal*. [Paper](https://doi.org/10.1109/JIOT.2025.3551279)
+- **NTP-INT** — Network traffic prediction-driven in-band network telemetry for high-load switches — *JNCA*. [Paper](https://doi.org/10.1016/j.jnca.2025.104265)
+- **Cache-INT** — In-network caching-enabled in-band network telemetry — *Computer Networks*. [Paper](https://doi.org/10.1016/j.comnet.2025.111404)
+- **Probe-Optimizer** — Discovering important nodes for proactive in-band network telemetry to achieve better probe orchestration — *Computer Networks*. [Paper](https://doi.org/10.1016/j.comnet.2024.110935)
+- **FANT** — Flexible active in-band network telemetry — *Computer Communications*. [Paper](https://doi.org/10.1016/j.comcom.2025.108336)
+- **INT-LLPP** — Lightweight in-band network-wide telemetry with low-latency and low-overhead path planning — *Computer Communications*. [Paper](https://doi.org/10.1016/j.comcom.2025.108142)
+- **EvoTrace** — A lightweight in-band network telemetry method based on nonlinear embedding and batch processing — *Computer Science*. [Paper](https://doi.org/10.11896/jsjkx.240100164)
 - **INT-MC** — Low-overhead in-band network-wide telemetry based on matrix completion — *ACM SIGMETRICS, 2025*. [Paper](https://doi.org/10.1145/3726854.3727291)
 - **FAT-INT** — Frequency-aware and item-wise in-band network telemetry for low-overhead and accurate measurement — *ACM CoNEXT, 2025*. [Paper](https://doi.org/10.1145/3749218)
 - **AMSO-INT** — Reinforcement learning-driven dynamic adaptive in-band telemetry — *NAIC, 2025*. [Paper](https://doi.org/10.1145/3748273.3749207)
@@ -40,8 +40,8 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **TS-INT** — A hybrid in-band network telemetry architecture in cyclic queuing and forwarding networks — *CBD, 2025*. [Paper](https://doi.org/10.1109/CBD69312.2025.00049)
 - **SRv6-ALINT** — SRv6-based efficient in-band network-wide telemetry across LANs — *ICCCN, 2025*. [Paper](https://doi.org/10.1109/ICCCN65249.2025.11133970)
 - **INT-LLM** — Adaptive path planner for in-band network telemetry via large language models — *ICIC, 2025*. [Paper](https://doi.org/10.1007/978-981-96-9914-8_17)
-- Network-wide data collection based on in-band network telemetry for digital twin networks — *IEEE TMC, 2025*. [Paper](https://doi.org/10.1109/TMC.2024.3456584)
-- In-band network telemetry for software-defined wide area networks — *Computer Networks, 2025*. [Paper](https://doi.org/10.1016/j.comnet.2025.111567)
+- Network-wide data collection based on in-band network telemetry for digital twin networks — *IEEE TMC*. [Paper](https://doi.org/10.1109/TMC.2024.3456584)
+- In-band network telemetry for software-defined wide area networks — *Computer Networks*. [Paper](https://doi.org/10.1016/j.comnet.2025.111567)
 
 ### 2024
 
