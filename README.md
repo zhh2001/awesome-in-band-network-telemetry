@@ -9,7 +9,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **TT-INT** — A time-threshold-based lightweight in-band network telemetry scheme for P4-enabled programmable networks — *IEEE TNSM, 2026*. [Paper](https://doi.org/10.1109/TNSM.2026.3688086)
 - **SecureINT** — Toward security-enhanced in-band network telemetry in programmable networks — *IEEE TNSM, 2026*. [Paper](https://doi.org/10.1109/TNSM.2024.3504563)
 - **CASINT** — Congestion-aware selective in-band network telemetry for low traffic overhead and high-accuracy anomaly detection — *IEEE Transactions on Vehicular Technology, 2026*. [Paper](https://doi.org/10.1109/TVT.2026.3713202)
-- **INTpress** — Compression-based quantized in-band network telemetry for low bandwidth overhead monitoring — *IEEE Transactions on Cloud Computing, 2026*. [Paper](https://doi.org/10.1109/TCC.2026.3690765)
+- **INTpress** — Compression-based quantized in-band network telemetry for low bandwidth overhead monitoring — *IEEE TCC, 2026*. [Paper](https://doi.org/10.1109/TCC.2026.3690765)
 - **INTDirector** — Achieving lightweight in-band network telemetry with superior coverage — *Computer Networks, 2026*. [Paper](https://doi.org/10.1016/j.comnet.2026.112551)
 - **SPRINT** — Line-rate in-band network telemetry recovery for application optimization — *IEEE INFOCOM, 2026*. [Paper](https://doi.org/10.1109/INFOCOM59046.2026.11571646)
 - **FreshINT** — Freshness-aware early reporting in in-band network telemetry systems — *IEEE INFOCOM, 2026*. [Paper](https://doi.org/10.1109/INFOCOM59046.2026.11571376)
@@ -40,16 +40,16 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **TS-INT** — A hybrid in-band network telemetry architecture in cyclic queuing and forwarding networks — *CBD, 2025*. [Paper](https://doi.org/10.1109/CBD69312.2025.00049)
 - **SRv6-ALINT** — SRv6-based efficient in-band network-wide telemetry across LANs — *ICCCN, 2025*. [Paper](https://doi.org/10.1109/ICCCN65249.2025.11133970)
 - **INT-LLM** — Adaptive path planner for in-band network telemetry via large language models — *ICIC, 2025*. [Paper](https://doi.org/10.1007/978-981-96-9914-8_17)
-- Network-wide data collection based on in-band network telemetry for digital twin networks — *IEEE Transactions on Mobile Computing, 2025*. [Paper](https://doi.org/10.1109/TMC.2024.3456584)
+- Network-wide data collection based on in-band network telemetry for digital twin networks — *IEEE TMC, 2025*. [Paper](https://doi.org/10.1109/TMC.2024.3456584)
 - In-band network telemetry for software-defined wide area networks — *Computer Networks, 2025*. [Paper](https://doi.org/10.1016/j.comnet.2025.111567)
 
 ### 2024
 
 - **AdapINT** — A flexible and adaptive in-band network telemetry system based on deep reinforcement learning — *IEEE TNSM, 2024*. [Paper](https://doi.org/10.1109/TNSM.2024.3427403)
-- **SFANT** — A SRv6-based flexible and active network telemetry scheme in programming data plane — *IEEE Transactions on Network Science and Engineering, 2024*. [Paper](https://doi.org/10.1109/TNSE.2023.3277000)
-- **INT-Label** — Lightweight in-band network-wide telemetry via distributed labeling — *IEEE Transactions on Parallel and Distributed Systems, 2024*. [Paper](https://doi.org/10.1109/TPDS.2024.3367933)
-- **INT-Segment** — MTU-adaptive in-band network-wide telemetry — *IEEE/ACM Transactions on Networking, 2024*. [Paper](https://doi.org/10.1109/TNET.2024.3351672)
-- **P4InfoSen-INT** — Information-sensitive in-band network telemetry in P4-based programmable data plane — *IEEE/ACM Transactions on Networking, 2024*. [Paper](https://doi.org/10.1109/TNET.2024.3448244)
+- **SFANT** — A SRv6-based flexible and active network telemetry scheme in programming data plane — *IEEE TNSE, 2024*. [Paper](https://doi.org/10.1109/TNSE.2023.3277000)
+- **INT-Label** — Lightweight in-band network-wide telemetry via distributed labeling — *IEEE TPDS, 2024*. [Paper](https://doi.org/10.1109/TPDS.2024.3367933)
+- **INT-Segment** — MTU-adaptive in-band network-wide telemetry — *IEEE/ACM ToN 2024*. [Paper](https://doi.org/10.1109/TNET.2024.3351672)
+- **P4InfoSen-INT** — Information-sensitive in-band network telemetry in P4-based programmable data plane — *IEEE/ACM ToN 2024*. [Paper](https://doi.org/10.1109/TNET.2024.3448244)
 - **OffsetINT** — Achieving high accuracy and low bandwidth for in-band network telemetry — *IEEE Transactions on Services Computing, 2024*. [Paper](https://doi.org/10.1109/TSC.2023.3323697)
 - **CLINT** — Controller-assisted lightweight in-band network telemetry — *IEEE Access, 2024*. [Paper](https://doi.org/10.1109/ACCESS.2024.3385674)
 - **INTaaS** — Provisioning in-band network telemetry as a service via online learning — *Computer Networks, 2024*. [Paper](https://doi.org/10.1016/j.comnet.2024.110211)
@@ -69,9 +69,9 @@ A curated chronological list of research papers that explicitly study **In-Band 
 ### 2023
 
 - **DLINT & PLINT** — Deterministic and probabilistic P4-enabled lightweight in-band network telemetry — *IEEE TNSM, 2023*. [Paper](https://doi.org/10.1109/TNSM.2023.3301839)
-- **Sel-INTO** — How to use in-band network telemetry wisely: network-wise orchestration of Sel-INT — *IEEE/ACM Transactions on Networking, 2023*. [Paper](https://doi.org/10.1109/TNET.2022.3194086)
+- **Sel-INTO** — How to use in-band network telemetry wisely: network-wise orchestration of Sel-INT — *IEEE/ACM ToN 2023*. [Paper](https://doi.org/10.1109/TNET.2022.3194086)
 - **SINT** — Toward a blockchain-based secure in-band network telemetry architecture — *IEEE Transactions on Information Forensics and Security, 2023*. [Paper](https://doi.org/10.1109/TIFS.2023.3269891)
-- **SketchINT** — Empowering INT with TowerSketch for per-flow per-switch measurement — *IEEE Transactions on Parallel and Distributed Systems, 2023*. [Paper](https://doi.org/10.1109/TPDS.2023.3303924)
+- **SketchINT** — Empowering INT with TowerSketch for per-flow per-switch measurement — *IEEE TPDS, 2023*. [Paper](https://doi.org/10.1109/TPDS.2023.3303924)
 - **DeltaINT** — A general delta-based in-band network telemetry framework with extremely low bandwidth overhead — *Computer Networks, 2023*. [Paper](https://doi.org/10.1016/j.comnet.2023.109573)
 - **SONM-SR-INT** — Selective and on-demand network measurement with SRv6 and INT — *Computer Networks, 2023*. [Paper](https://doi.org/10.1016/j.comnet.2023.109914)
 - **DUNE** — Improving accuracy for Sketch-INT network measurement systems — *IEEE INFOCOM, 2023*. [Paper](https://doi.org/10.1109/INFOCOM53939.2023.10229098)
@@ -83,7 +83,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **MPolKA-INT** — Stateless multipath source routing for in-band network telemetry — *AINA, 2023*. [Paper](https://doi.org/10.1007/978-3-031-28451-9_45)
 - **NetworkSight** — Fast and on-demand network-wide telemetry via cluster based path planning — *Journal of Internet Technology, 2023*. [Paper](https://doi.org/10.53106/160792642023112406016)
 - Distributed in-band network telemetry — *IEEE/ACM CCGrid Workshops, 2023*. [Paper](https://doi.org/10.1109/CCGridW59191.2023.00060)
-- Scheduling in-band network telemetry with convergence-preserving federated learning — *IEEE/ACM Transactions on Networking, 2023*. [Paper](https://doi.org/10.1109/TNET.2023.3253302)
+- Scheduling in-band network telemetry with convergence-preserving federated learning — *IEEE/ACM ToN 2023*. [Paper](https://doi.org/10.1109/TNET.2023.3253302)
 
 ### 2022
 
@@ -95,7 +95,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **DyPro** — Dynamic probing planning for in-band network telemetry — *IEEE ISCC, 2022*. [Paper](https://doi.org/10.1109/ISCC55528.2022.9912881)
 - **SPT** — Sketch-based polling in-band network telemetry — *IEEE/IFIP NOMS, 2022*. [Paper](https://doi.org/10.1109/NOMS54207.2022.9789919)
 - **Hawkeye** — Efficient in-band network telemetry with hybrid proactive-passive mechanism — *IEEE ISPA/BDCloud/SocialCom/SustainCom, 2022*. [Paper](https://doi.org/10.1109/ISPA-BDCloud-SocialCom-SustainCom57177.2022.00120)
-- Task scheduling for probabilistic in-band network telemetry — *IEEE/ACM Transactions on Networking, 2022*. [Paper](https://doi.org/10.1109/TNET.2022.3189370)
+- Task scheduling for probabilistic in-band network telemetry — *IEEE/ACM ToN 2022*. [Paper](https://doi.org/10.1109/TNET.2022.3189370)
 - Distributed probability orchestrating for probabilistic in-band network telemetry — *ICCC, 2022*. [Paper](https://doi.org/10.1109/ICCC56324.2022.10065704)
 - The processing method of the message based on the in-band network telemetry technology — *ICSS, 2022*. [Paper](https://doi.org/10.1109/ICSS55994.2022.00013)
 
