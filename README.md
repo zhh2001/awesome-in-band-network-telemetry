@@ -29,6 +29,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **Probe-Optimizer** — Discovering important nodes for proactive in-band network telemetry to achieve better probe orchestration — *Computer Networks, 2025*. [Paper](https://doi.org/10.1016/j.comnet.2024.110935)
 - **FANT** — Flexible active in-band network telemetry — *Computer Communications, 2025*. [Paper](https://doi.org/10.1016/j.comcom.2025.108336)
 - **INT-LLPP** — Lightweight in-band network-wide telemetry with low-latency and low-overhead path planning — *Computer Communications, 2025*. [Paper](https://doi.org/10.1016/j.comcom.2025.108142)
+- **EvoTrace** — A lightweight in-band network telemetry method based on nonlinear embedding and batch processing — *Computer Science, 2025*. [Paper](https://doi.org/10.11896/jsjkx.240100164)
 - **INT-MC** — Low-overhead in-band network-wide telemetry based on matrix completion — *ACM SIGMETRICS, 2025*. [Paper](https://doi.org/10.1145/3726854.3727291)
 - **FAT-INT** — Frequency-aware and item-wise in-band network telemetry for low-overhead and accurate measurement — *ACM CoNEXT, 2025*. [Paper](https://doi.org/10.1145/3749218)
 - **AMSO-INT** — Reinforcement learning-driven dynamic adaptive in-band telemetry — *NAIC, 2025*. [Paper](https://doi.org/10.1145/3748273.3749207)
