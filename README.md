@@ -84,6 +84,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **INT-probe** — Lightweight in-band network-wide telemetry with stationary probes — *IEEE ICDCS, 2021*. [Paper](https://doi.org/10.1109/ICDCS51616.2021.00090)
 - **LINT** — Accuracy-adaptive and lightweight in-band network telemetry — *IFIP/IEEE IM, 2021*. [Paper](https://ieeexplore.ieee.org/document/9464012)
 - In-band network telemetry task orchestration based on multi-objective optimization — *APNOMS, 2021*. [Paper](https://doi.org/10.23919/APNOMS52696.2021.9562646)
+- A flexible P4-based pin-point in-band network monitoring — *APNOMS, 2021*. [Paper](https://doi.org/10.23919/APNOMS52696.2021.9562620)
 
 ### 2020
 
