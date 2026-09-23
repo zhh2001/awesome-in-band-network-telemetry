@@ -39,6 +39,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **CLINT** — Controller-assisted lightweight in-band network telemetry — *IEEE Access, 2024*. [Paper](https://doi.org/10.1109/ACCESS.2024.3385674)
 - **INTaaS** — Provisioning in-band network telemetry as a service via online learning — *Computer Networks, 2024*. [Paper](https://doi.org/10.1016/j.comnet.2024.110211)
 - **SPAN** — Reducing the in-band network telemetry overhead through the spatial sampling: Theory and experimental results — *Computer Networks, 2024*. [Paper](https://doi.org/10.1016/j.comnet.2024.110269)
+- **uINT** — Utility-based sampling rate allocation in in-band network telemetry for high network visibility — *ICT Express, 2024*. [Paper](https://doi.org/10.1016/j.icte.2023.06.008)
 - **OpenINT** — Dynamic in-band network telemetry with lightweight deployment and flexible planning — *IEEE INFOCOM, 2024*. [Paper](https://doi.org/10.1109/INFOCOM52122.2024.10621221)
 
 ### 2023
@@ -47,7 +48,6 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **SINT** — Toward a blockchain-based secure in-band network telemetry architecture — *IEEE Transactions on Information Forensics and Security, 2023*. [Paper](https://doi.org/10.1109/TIFS.2023.3269891)
 - **DeltaINT** — A general delta-based in-band network telemetry framework with extremely low bandwidth overhead — *Computer Networks, 2023*. [Paper](https://doi.org/10.1016/j.comnet.2023.109573)
 - **SONM-SR-INT** — Selective and on-demand network measurement with SRv6 and INT — *Computer Networks, 2023*. [Paper](https://doi.org/10.1016/j.comnet.2023.109914)
-- **uINT** — Utility-based sampling rate allocation in in-band network telemetry for high network visibility — *ICT Express, 2023*. [Paper](https://doi.org/10.1016/j.icte.2023.06.008)
 - **INT-Balance** — In-band network-wide telemetry with balanced monitoring path planning — *IEEE ICC, 2023*. [Paper](https://doi.org/10.1109/ICC45041.2023.10279077)
 - **D-INT** — A dynamic algorithm for in-band network telemetry — *SBRC, 2023*. [Paper](https://doi.org/10.5753/sbrc.2023.531)
 - **MPolKA-INT** — Stateless multipath source routing for in-band network telemetry — *AINA, 2023*. [Paper](https://doi.org/10.1007/978-3-031-28451-9_45)
