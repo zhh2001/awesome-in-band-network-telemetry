@@ -127,6 +127,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - A bandwidth-efficient INT system for tracking the rules matched by the packets of a flow — *IEEE GLOBECOM, 2019*. [Paper](https://doi.org/10.1109/GLOBECOM38437.2019.9013581)
 - Programmable event detection for in-band network telemetry — *IEEE CloudNet, 2019*. [Paper](https://doi.org/10.1109/CloudNet47604.2019.9064137)
 - An optimization-based approach for efficient network monitoring using in-band network telemetry — *Journal of Internet Services and Applications, 2019*. [Paper](https://doi.org/10.1186/s13174-019-0112-0)
+- Real-time and fine-grained network monitoring using in-band network telemetry — *International Journal of Network Management, 2019*. [Paper](https://doi.org/10.1002/nem.2080)
 
 ### 2018
 
