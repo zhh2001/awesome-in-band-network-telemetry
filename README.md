@@ -14,6 +14,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **SPRINT** — Line-rate in-band network telemetry recovery for application optimization — *IEEE INFOCOM, 2026*. [Paper](https://doi.org/10.1109/INFOCOM59046.2026.11571646)
 - **FreshINT** — Freshness-aware early reporting in in-band network telemetry systems — *IEEE INFOCOM, 2026*. [Paper](https://doi.org/10.1109/INFOCOM59046.2026.11571376)
 - **INTo6** — In-band network telemetry over IPv6 — *IEEE WCNC, 2026*. [Paper](https://doi.org/10.1109/WCNC65185.2026.11555103)
+- **AI-INT** — An AI-driven telemetry framework for programmable networks — *ICDCIT, 2026*. [Paper](https://doi.org/10.1007/978-3-032-16632-6_20)
 - Leveraging FPGA-based SmartNICs for low-latency in-band network telemetry — *ICIN, 2026*. [Paper](https://doi.org/10.1109/ICIN69025.2026.11481846)
 
 ### 2025
