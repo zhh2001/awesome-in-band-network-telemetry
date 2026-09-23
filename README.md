@@ -35,6 +35,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **SRv6-ALINT** — SRv6-based efficient in-band network-wide telemetry across LANs — *ICCCN, 2025*. [Paper](https://doi.org/10.1109/ICCCN65249.2025.11133970)
 - **INT-LLM** — Adaptive path planner for in-band network telemetry via large language models — *ICIC, 2025*. [Paper](https://doi.org/10.1007/978-981-96-9914-8_17)
 - Network-wide data collection based on in-band network telemetry for digital twin networks — *IEEE Transactions on Mobile Computing, 2025*. [Paper](https://doi.org/10.1109/TMC.2024.3456584)
+- In-band network telemetry for software-defined wide area networks — *Computer Networks, 2025*. [Paper](https://doi.org/10.1016/j.comnet.2025.111567)
 
 ### 2024
 
