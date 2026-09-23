@@ -49,6 +49,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **SF-INT** — An integrated solution for high-efficiency in-band network telemetry — *APNet , 2024*. [Paper](https://doi.org/10.1145/3663408.3663425)
 - Lightweight INT on the Tofino programmable switch — *ACM MobiCom, 2024*. [Paper](https://doi.org/10.1145/3636534.3696729)
 - In-band network-wide telemetry for topology-varying LEO satellite networks — *IEEE GLOBECOM, 2024*. [Paper](https://doi.org/10.1109/GLOBECOM52923.2024.10900986)
+- A flexible in-band network telemetry framework for heterogeneous private networks — *IEEE WFCS, 2024*. [Paper](https://doi.org/10.1109/WFCS60972.2024.10540842)
 
 ### 2023
 
