@@ -111,7 +111,7 @@ General network telemetry papers, surveys, standards/specifications, and approac
 
 ## Publication Year
 
-Papers are ordered by their **formal publication year**, rather than arXiv submission year.
+Papers are grouped by the publication year of their final bibliographic record (volume/issue for journal articles and proceedings year for conference papers), rather than their early-access or arXiv publication year.
 
 ## Note
 
