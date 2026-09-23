@@ -94,6 +94,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **Hawkeye** — Efficient in-band network telemetry with hybrid proactive-passive mechanism — *IEEE ISPA/BDCloud/SocialCom/SustainCom, 2022*. [Paper](https://doi.org/10.1109/ISPA-BDCloud-SocialCom-SustainCom57177.2022.00120)
 - Task scheduling for probabilistic in-band network telemetry — *IEEE/ACM Transactions on Networking, 2022*. [Paper](https://doi.org/10.1109/TNET.2022.3189370)
 - Distributed probability orchestrating for probabilistic in-band network telemetry — *ICCC, 2022*. [Paper](https://doi.org/10.1109/ICCC56324.2022.10065704)
+- The processing method of the message based on the in-band network telemetry technology — *ICSS, 2022*. [Paper](https://doi.org/10.1109/ICSS55994.2022.00013)
 
 ### 2021
 
