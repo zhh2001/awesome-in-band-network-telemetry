@@ -20,7 +20,6 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **D-INTO** — Self-adaptive dynamic in-band network telemetry orchestration for balancing accuracy and stability — *IEEE Transactions on Network and Service Management, 2025*. [Paper](https://doi.org/10.1109/TNSM.2025.3530432)
 - **INT-Partition** — Hierarchical and fault-tolerant in-band network telemetry — *IEEE Transactions on Networking, 2025*. [Paper](https://doi.org/10.1109/TON.2025.3569340)
 - **INT-Source** — Topology-adaptive in-band network-wide telemetry — *IEEE Transactions on Networking, 2025*. [Paper](https://doi.org/10.1109/TON.2025.3589194)
-- **LHRF** — Network-wide data collection based on in-band network telemetry for digital twin networks — *IEEE Transactions on Mobile Computing, 2025*. [Paper](https://doi.org/10.1109/TMC.2024.3456584)
 - **NTP-INT** — Network traffic prediction-driven in-band network telemetry for high-load switches — *Journal of Network and Computer Applications, 2025*. [Paper](https://doi.org/10.1016/j.jnca.2025.104265)
 - **Cache-INT** — In-network caching-enabled In-band Network Telemetry — *Computer Networks, 2025*. [Paper](https://doi.org/10.1016/j.comnet.2025.111404)
 - **FANT** — Flexible active in-band network telemetry — *Computer Communications, 2025*. [Paper](https://doi.org/10.1016/j.comcom.2025.108336)
@@ -31,6 +30,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **ATINT** — Planning for anomaly-tolerant probing for network-wide in-band network telemetry — *IEEE ICC, 2025*. [Paper](https://doi.org/10.1109/ICC52391.2025.11160743)
 - **SRv6-ALINT** — SRv6-based efficient in-band network-wide telemetry across LANs — *ICCCN, 2025*. [Paper](https://doi.org/10.1109/ICCCN65249.2025.11133970)
 - **INT-LLM** — Adaptive path planner for in-band network telemetry via large language models — *ICIC, 2025*. [Paper](https://doi.org/10.1007/978-981-96-9914-8_17)
+- Network-wide data collection based on in-band network telemetry for digital twin networks — *IEEE Transactions on Mobile Computing, 2025*. [Paper](https://doi.org/10.1109/TMC.2024.3456584)
 
 ### 2024
 
