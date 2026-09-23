@@ -107,6 +107,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **ProML-INT** — Programmable multilayer INT: An enabler for AI-assisted network automation — *IEEE Communications Magazine, 2020*. [Paper](https://doi.org/10.1109/MCOM.001.1900365)
 - **PINT** — Probabilistic in-band network telemetry — *ACM SIGCOMM, 2020*. [Paper](https://doi.org/10.1145/3387514.3405894)
 - **FS-INT** — Flexible sampling-based in-band network telemetry in programmable data plane — *ICT Express, 2020*. [Paper](https://doi.org/10.1016/j.icte.2019.08.005)
+- **S-INT** — Towards in-band telemetry for self-driving wireless networks — *IEEE INFOCOM Workshops, 2020*. [Paper](https://doi.org/10.1109/INFOCOMWKSHPS50562.2020.9162923)
 - **Fast-INT** — Light-weight and efficient in-band network telemetry in programmable data plane — *IEEE VTC, 2020*. [Paper](https://doi.org/10.1109/VTC2020-Fall49728.2020.9348823)
 - **INT-filter** — Mitigating data collection overhead for high-resolution in-band network telemetry — *IEEE GLOBECOM, 2020*. [Paper](https://doi.org/10.1109/GLOBECOM42002.2020.9348029)
 - **Patcher** — Towards fault-tolerant probing planning for in-band network telemetry — *IEEE LATINCOM, 2020*. [Paper](https://doi.org/10.1109/LATINCOM50620.2020.9282348)
