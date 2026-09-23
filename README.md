@@ -75,7 +75,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 - **DyPro** — Dynamic probing planning for in-band network telemetry — *IEEE ISCC, 2022*. [Paper](https://doi.org/10.1109/ISCC55528.2022.9912881)
 - **SPT** — Sketch-based polling in-band network telemetry — *IEEE/IFIP NOMS, 2022*. [Paper](https://doi.org/10.1109/NOMS54207.2022.9789919)
 - Task scheduling for probabilistic in-band network telemetry — *IEEE/ACM Transactions on Networking, 2022*. [Paper](https://doi.org/10.1109/TNET.2022.3189370)
-- Distributed probability orchestrating for probabilistic in-band network telemetry — *ICCC, 2021*. [Paper](https://doi.org/10.1109/ICCC56324.2022.10065704)
+- Distributed probability orchestrating for probabilistic in-band network telemetry — *ICCC, 2022*. [Paper](https://doi.org/10.1109/ICCC56324.2022.10065704)
 
 ### 2021
 
