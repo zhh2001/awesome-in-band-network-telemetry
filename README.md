@@ -127,6 +127,10 @@ General network telemetry papers, surveys, standards/specifications, and approac
 
 Papers are grouped by the publication year of their final bibliographic record (volume/issue for journal articles and proceedings year for conference papers), rather than their early-access or arXiv publication year.
 
+## Version Policy
+
+When a later publication substantially extends an earlier version of the same work, only the latest version is listed to avoid duplicate entries.
+
 ## Note
 
 This list aims to be selective rather than exhaustive. Relevance to INT is prioritized over quantity.
