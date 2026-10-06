@@ -1,6 +1,6 @@
-# Awesome In-Band Network Telemetry
+# Awesome In-band Network Telemetry
 
-A curated chronological list of research papers that explicitly study **In-Band Network Telemetry (INT)** mechanisms.
+A curated chronological list of research papers that explicitly study **In-band Network Telemetry (INT)** mechanisms.
 
 **Missing a paper?** Please [submit a paper](https://github.com/zhh2001/awesome-in-band-network-telemetry/issues/new?template=paper-submission.yml). Authors are welcome to submit their own work.
 
@@ -154,7 +154,7 @@ A curated chronological list of research papers that explicitly study **In-Band 
 
 ## Inclusion Criteria
 
-A paper is included only when **In-Band Network Telemetry (INT) itself is a central research subject**, such as:
+A paper is included only when **In-band Network Telemetry (INT) itself is a central research subject**, such as:
 
 * proposing a new INT mechanism or architecture;
 * improving INT overhead, sampling, encoding, probing, or telemetry collection;
