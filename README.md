@@ -105,7 +105,7 @@ A curated chronological list of research papers that explicitly study **In-band 
 ### 2021
 
 - **SR-INT** — Highly-efficient and adaptive network monitoring: when INT meets SR — *IEEE TNSM*. [Paper](https://doi.org/10.1109/TNSM.2021.3069000)
-- **LossSight** — A packet loss monitoring system for INT: detection, localization, diagnosis and recovery — *IEEE TNSM*. [Paper](https://doi.org/10.1109/TNSM.2021.3125012)
+- **LossSight** — A packet loss monitoring system for INT — *IEEE TNSM*. [Paper](https://doi.org/10.1109/TNSM.2021.3125012)
 - **PFA-INT** — Lightweight in-band network telemetry with per-flow aggregation — *IEEE NFV-SDN*. [Paper](https://doi.org/10.1109/NFV-SDN53031.2021.9665016)
 - **C-INT** — An efficient cluster based in-band network telemetry — *HotICN*. [Paper](https://doi.org/10.1109/HotICN53262.2021.9680854)
 - **P<sup>2</sup>INT** — Near-optimal probing planning for in-band network telemetry — *IEEE Communications Letters*. [Paper](https://doi.org/10.1109/LCOMM.2021.3053485)
