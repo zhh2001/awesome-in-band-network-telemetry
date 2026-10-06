@@ -139,7 +139,7 @@ A curated chronological list of research papers that explicitly study **In-band 
 
 - **ML-INT** — Visualize your IP-over-optical network in realtime: a P4-based flexible multilayer INT system — *IEEE Access*. [Paper](https://doi.org/10.1109/ACCESS.2019.2924332)
 - **INT-path** — Towards optimal path planning for in-band network-wide telemetry — *IEEE INFOCOM*. [Paper](https://doi.org/10.1109/INFOCOM.2019.8737529)
-- **INTOPP** — Orchestrating in-band data plane telemetry with machine learning — *IEEE Communications Letters*. [Paper](https://doi.org/10.1109/LCOMM.2019.2946562)
+- **INTOPP** — Orchestrating in-band data plane telemetry with ML — *IEEE Communications Letters*. [Paper](https://doi.org/10.1109/LCOMM.2019.2946562)
 - A bandwidth-efficient INT system for tracking the rules matched by the packets of a flow — *IEEE GLOBECOM*. [Paper](https://doi.org/10.1109/GLOBECOM38437.2019.9013581)
 - Programmable event detection for in-band network telemetry — *IEEE CloudNet*. [Paper](https://doi.org/10.1109/CloudNet47604.2019.9064137)
 - An optimization-based approach for efficient network monitoring using in-band network telemetry — *JISA*. [Paper](https://doi.org/10.1186/s13174-019-0112-0)
