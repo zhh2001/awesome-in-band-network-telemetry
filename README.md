@@ -56,7 +56,7 @@ A curated chronological list of research papers that explicitly study **In-band 
 - **OffsetINT** — Achieving high accuracy and low bandwidth for in-band network telemetry — *IEEE TSC*. [Paper](https://doi.org/10.1109/TSC.2023.3323697)
 - **CLINT** — Controller-assisted lightweight in-band network telemetry — *IEEE Access*. [Paper](https://doi.org/10.1109/ACCESS.2024.3385674)
 - **INTaaS** — Provisioning in-band network telemetry as a service via online learning — *Computer Networks*. [Paper](https://doi.org/10.1016/j.comnet.2024.110211)
-- **SPAN** — Reducing the INT overhead through the spatial sampling: theory and experimental results — *Computer Networks*. [Paper](https://doi.org/10.1016/j.comnet.2024.110269)
+- **SPAN** — Reducing the INT overhead through the spatial sampling — *Computer Networks*. [Paper](https://doi.org/10.1016/j.comnet.2024.110269)
 - **uINT** — Utility-based sampling rate allocation in INT for high network visibility — *ICT Express*. [Paper](https://doi.org/10.1016/j.icte.2023.06.008)
 - **OpenINT** — Dynamic INT with lightweight deployment and flexible planning — *IEEE INFOCOM*. [Paper](https://doi.org/10.1109/INFOCOM52122.2024.10621221)
 - **INToSR** — Building a novel in-band network telemetry over SRv6 — *IEEE ISPA*. [Paper](https://doi.org/10.1109/ISPA63168.2024.00236)
