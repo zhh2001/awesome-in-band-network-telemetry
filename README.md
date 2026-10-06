@@ -49,7 +49,7 @@ A curated chronological list of research papers that explicitly study **In-band 
 ### 2024
 
 - **AdapINT** — A flexible and adaptive INT system based on deep reinforcement learning — *IEEE TNSM*. [Paper](https://doi.org/10.1109/TNSM.2024.3427403)
-- **SFANT** — A SRv6-based flexible and active network telemetry scheme in programming data plane — *IEEE TNSE*. [Paper](https://doi.org/10.1109/TNSE.2023.3277000)
+- **SFANT** — A SRv6-based flexible and active network telemetry scheme in PDP — *IEEE TNSE*. [Paper](https://doi.org/10.1109/TNSE.2023.3277000)
 - **INT-Label** — Lightweight in-band network-wide telemetry via distributed labeling — *IEEE TPDS*. [Paper](https://doi.org/10.1109/TPDS.2024.3367933)
 - **INT-Segment** — MTU-adaptive in-band network-wide telemetry — *IEEE/ACM ToN*. [Paper](https://doi.org/10.1109/TNET.2024.3351672)
 - **P4InfoSen-INT** — Information-sensitive INT in P4-based programmable data plane — *IEEE/ACM ToN*. [Paper](https://doi.org/10.1109/TNET.2024.3448244)
