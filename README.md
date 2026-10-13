@@ -85,6 +85,7 @@ A curated chronological list of research papers that explicitly study **In-band 
 - **DINT** — A dynamic algorithm for in-band network telemetry — *SBRC*. [Paper](https://doi.org/10.5753/sbrc.2023.531)
 - **MPolKA-INT** — Stateless multipath source routing for in-band network telemetry — *AINA*. [Paper](https://doi.org/10.1007/978-3-031-28451-9_45)
 - **NetworkSight** — Fast and on-demand network-wide telemetry via cluster based path planning — *JIT*. [Paper](https://doi.org/10.53106/160792642023112406016)
+- **LB-LossSight** — An INT-based packet loss monitoring system for data center networks implementing fine-grained multi-path routing — *Internet Technology Letters*. [Paper](https://doi.org/10.1002/itl2.393)
 - Distributed in-band network telemetry — *IEEE/ACM CCGrid Workshops*. [Paper](https://doi.org/10.1109/CCGridW59191.2023.00060)
 - Scheduling in-band network telemetry with convergence-preserving federated learning — *IEEE/ACM ToN*. [Paper](https://doi.org/10.1109/TNET.2023.3253302)
 
